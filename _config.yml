@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Dr. Robert Krueger"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Postdoctoral research fellow at Harvard University"
+  location         : "Cambridge, MA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=UHmEAooAAAAJ&hl=en&oi=sra"
+  email            : "krueger@g.harvard.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,14 +97,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/r-krueger-data-scientist"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
