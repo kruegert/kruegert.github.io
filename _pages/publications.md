@@ -9,7 +9,7 @@ author_profile: true
 Journal Publications
 ------
 
-* <span style="font-size:14px;width:500px">Krueger, Robert ; Simeonov, Georgi ; Beck, Fabian ; Ertl, Thomas: Visual Interactive Map Matching. In: Transaction on Visualization and Computer Graphics (TVCG). (2018). Bd. 24 (2018), Nr. 6. (Pacific Vis Honorable Mention), DOI: 10.1109/TVCG.2018.2816219 </span>
+* <span style="font-size:14px;width:400px">Krueger, Robert ; Simeonov, Georgi ; Beck, Fabian ; Ertl, Thomas: Visual Interactive Map Matching. In: Transaction on Visualization and Computer Graphics (TVCG). (2018). Bd. 24 (2018), Nr. 6. (Pacific Vis Honorable Mention), DOI: 10.1109/TVCG.2018.2816219 </span>
 
 * <span style="font-size:14px;width:500px">Steptoe, Michael ; Krüger, Robert ; Garcia, Rolando ; Liang, Xing ; Maciejewski, Ross: A Visual Analytics Framework for Exploring Theme Park Dynamics. In: ACM Transaction on Interactive Intelligent Systems, ACM Transaction on Interactive Intelligent Systems. Bd. 8 (2018), Nr. 4., DOI: 10.1109/VAST.2015.7347639</span>
 
