@@ -13,4 +13,6 @@ I am a postdoc research fellow at [VCG Harvard](https://vcg.seas.harvard.edu/) w
 Latest News
 ======
 
+May 2018 - New Position: Postodctoral Research Fellow @ VCG, Harvard University
 
+April 2018 - Honorable Mention for our tvcg/IEEE PacificVis paper "Visual Interactive Map Matching"
