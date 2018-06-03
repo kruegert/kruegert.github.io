@@ -14,7 +14,7 @@ Latest News
 ======
 
 <span style="color:grey">May 2018</span><br/>
-<span style="font-size: 10px">New Position: Postodctoral Research Fellow @ VCG, Harvard University</span>
+<span style="font-size: 12px">New Position: Postodctoral Research Fellow @ VCG, Harvard University</span>
 
 <span style="color:grey">April 2018</span><br/>
-<span style="font-size: 10px">Honorable Mention for our tvcg/IEEE PacificVis paper "Visual Interactive Map Matching"</span>
+<span style="font-size: 12px">Honorable Mention for our TVCG/PacificVis paper [Visual Interactive Map Matching](https://www.vis.wiwi.uni-due.de/uploads/tx_itochairt3/publications/pacificvis18-tvcg_map_matching.pdf)</span>
