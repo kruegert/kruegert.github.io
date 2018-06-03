@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="text-align:justify">I am a postdoc research fellow at <a href="https://vcg.seas.harvard.edu/" target="_blank">VCG Harvard</a> with the School of Engineering and Applied Science at <a href="https://www.harvard.edu/" target="_blank">Harvard University</a>.  I received my MS in Computer Science and Media at the Stuttgart Media University in 2012 and my Ph.D. degree (Dr. rer. nat.) in Computer Science at the Institute for Visualization and Interactive Systems, University of Stuttgart in 2017. My research interests lie in the field of data visualization and visual analytics with a special focus in spatio-temporal data.<br/><br/></span>
+<p style="text-align:justify">I am a postdoc research fellow at <a href="https://vcg.seas.harvard.edu/" target="_blank">VCG Harvard</a> with the School of Engineering and Applied Science at <a href="https://www.harvard.edu/" target="_blank">Harvard University</a>.  I received my MS in Computer Science and Media at the Stuttgart Media University in 2012 and my Ph.D. degree (Dr. rer. nat.) in Computer Science at the Institute for Visualization and Interactive Systems, University of Stuttgart in 2017. My research interests lie in the field of data visualization and visual analytics with a special focus in spatio-temporal data.<br/><br/></p>
 
 Latest News
 ======
