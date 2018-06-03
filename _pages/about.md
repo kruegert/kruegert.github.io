@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align:justify">I am a postdoc research fellow at [VCG Harvard](https://vcg.seas.harvard.edu/) with the School of Engineering and Applied Science at Harvard University.  I received my MS in Computer Science and Media at the Stuttgart Media University in 2012 and my Ph.D. degree (Dr. rer. nat.) in Computer Science at the Institute for Visualization and Interactive Systems, University of Stuttgart in 2017. My research interests lie in the field of data visualization and visual analytics with a special focus in spatio-temporal data.<br/></div>
+<div style="text-align:justify">I am a postdoc research fellow at [VCG Harvard](https://vcg.seas.harvard.edu/) with the School of Engineering and Applied Science at Harvard University.  I received my MS in Computer Science and Media at the Stuttgart Media University in 2012 and my Ph.D. degree (Dr. rer. nat.) in Computer Science at the Institute for Visualization and Interactive Systems, University of Stuttgart in 2017. My research interests lie in the field of data visualization and visual analytics with a special focus in spatio-temporal data.</div>
 
+<br/>
 Latest News
 ======
 
@@ -17,9 +18,9 @@ Latest News
 <span style="font-size: 14px">New Position: Postodctoral Research Fellow @ VCG, Harvard University</span>
 
 <span style="color:grey">April 2018, Kobe, Japan</span><br/>
-<span style="font-size: 14px">Honorable Mention for our TVCG/ IEEE PacificVis paper:<br/>
+<span style="font-size: 14px">TVCG/ IEEE PacificVis Honorable Mention:
 [Visual Interactive Map Matching](https://www.vis.wiwi.uni-due.de/uploads/tx_itochairt3/publications/pacificvis18-tvcg_map_matching.pdf)</span>
 
 <span style="color:grey">November 2018, Adelaide, Australia</span><br/>
-<span style="font-size: 14px">Best Paper Award for our IEEE BDVA paper:<br/>
+<span style="font-size: 14px">IEEE BDVA Best Paper Award:
 [VESPa 2.0: Data-Driven Behavior Models for Visual Analytics of Movement Sequences](https://ieeexplore.ieee.org/abstract/document/8114626/)</span>
