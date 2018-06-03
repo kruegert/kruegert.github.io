@@ -21,6 +21,7 @@ Journal Publications
 
 * <div style="font-size:14px;width:600px;text-align:justify">Bosch, Harald ; Thom, Dennis ; Heimerl, Florian ; Püttmann, Edwin ; Koch, Steffen ; <b>Krüger, Robert</b> ; Wörner, Michael ; Ertl, Thomas: ScatterBlogs2: Real-Time Monitoring of Microblog Messages Through User-Guided Filtering. In: IEEE Transactions on Visualization and Computer Graphics (TVCG). Bd. 19 (2013), Nr. 12, DOI: 10.1109/TVCG.2013.186</div>
 
+* <div style="font-size:14px;width:600px;text-align:justify"><b>Krüger, Robert</b> ; Thom, Dennis ; Wörner, Michael ; Bosch, Harald ; Ertl, Thomas: TrajectoryLenses – A Set-based Filtering and Exploration Technique for Long-term Trajectory Data. In: Computer Graphics Forum (proceedings of The Eurographics Conference on Visualization), Bd. 2013 (2013b), Nr. 3, DOI: 10.1111/cgf.12132</div>
 
 Conference Publications
 ------
