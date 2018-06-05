@@ -25,3 +25,7 @@ Journal Publications
 
 Conference Publications
 ------
+
+* <div style="font-size:14px;width:600px;text-align:justify">Herr, Dominik ; Reinhardt, Jan ; Reina, Guido; Krueger, Robert ; Ferrari, Rafael Villanueva ; Ertl, Thomas: Immersive Modular Factory Layout Planning using Augmented Reality, CIRP-CMS 2018 (to appear), <a href="http://www.aviz.fr/~bbach/immersive2017/papers/IA_2278-paper.pdf" target="_blank"><u>link</u></a></div>
+
+* <div style="font-size:14px;width:600px;text-align:justify">Krueger, Robert ; Tremel, Tina ; Thom, Dennis: VESPA 2.0: Data-Driven Behavior Models for Visual Analytics of Movement Sequences. In: IEEE International Symposium on Big Data Visual Analytics (BDVA), 2017 (Best Paper Award) <a href="https://doi.org/10.1109/BDVA.2017.8114626" target="_blank">DOI: <u>10.1109/BDVA.2017.81146262</u></a></div>
