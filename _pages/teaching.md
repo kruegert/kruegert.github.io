@@ -5,56 +5,56 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* Winter Term 12/13 Übungsgruppe: Grundlagen der Künstlichen Intelligenz
+* <p style="font-size:14px;width:600px;text-align:justify">Winter Term 12/13 Übungsgruppe: Grundlagen der Künstlichen Intelligenz</p>
 
-* Summer Term 13 Ausarbeitung: Datenstrukturen und Algorithmen Winter Term 13/14
+* <p style="font-size:14px;width:600px;text-align:justify">Summer Term 13 Ausarbeitung: Datenstrukturen und Algorithmen Winter Term 13/14</p>
 
-* Seminar: Visual Analytics von sozialen Medien
+* <p style="font-size:14px;width:600px;text-align:justify">Seminar: Visual Analytics von sozialen Medien</p>
 
-* Summer Term 14 Seminar: Techniken und Toolkits für die Visualisierung
+* <p style="font-size:14px;width:600px;text-align:justify">Summer Term 14 Seminar: Techniken und Toolkits für die Visualisierung</p>
 
-* Winter Term 14/15 Übungsgruppe: Information Visualization and Visual Analytics
+* <p style="font-size:14px;width:600px;text-align:justify">Winter Term 14/15 Übungsgruppe: Information Visualization and Visual Analytics</p>
 
-* Summer Term 15 StuPro "Crowd"
+* <p style="font-size:14px;width:600px;text-align:justify">Summer Term 15 StuPro "Crowd"</p>
 
-* Winter Term 15/16 StuPro "Crowd" / Seminar: Virtual Reality Summer Term 16 Seminar: Interactive Visualization
+* <p style="font-size:14px;width:600px;text-align:justify">Winter Term 15/16 StuPro "Crowd" / Seminar: Virtual Reality Summer Term 16 Seminar: Interactive Visualization</p>
 
-* Winter Term 16/17 Lesson "Geographic Visualization" as part of the Information Visualization Course
+* <p style="font-size:14px;width:600px;text-align:justify">Winter Term 16/17 Lesson "Geographic Visualization" as part of the Information Visualization Course</p>
 
-* Summer Term 17 Seminar: Information Visualization of High-Dimensional Data
+* <p style="font-size:14px;width:600px;text-align:justify">Summer Term 17 Seminar: Information Visualization of High-Dimensional Data</p>
 
-* Winter Term 17/18 Lesson "Geographic Visualization" as part of the Information Visualization Course
+* <p style="font-size:14px;width:600px;text-align:justify">Winter Term 17/18 Lesson "Geographic Visualization" as part of the Information Visualization Course</p>
 
 
 Supervision 
 ===
 
-* [Bachelor application study] Evaluation verfügbarer VisualAnalytics Toolkits anhand von Benchmark-Datensätzen, 2013
+* <p style="font-size:14px;width:600px;text-align:justify">[Bachelor application study] Evaluation verfügbarer VisualAnalytics Toolkits anhand von Benchmark-Datensätzen, 2013</p>
 
-* [Bachelor thesis] Processing Dynamic Computer Network Data for Visual Analysis, 2013
+* <p style="font-size:14px;width:600px;text-align:justify">[Bachelor thesis] Processing Dynamic Computer Network Data for Visual Analysis, 2013</p>
 
-* [Bachelor thesis] Visual Analytics of Dynamic Computer Network Data, 2013
+* <p style="font-size:14px;width:600px;text-align:justify">[Bachelor thesis] Visual Analytics of Dynamic Computer Network Data, 2013</p>
 
-* [Diploma thesis] Visualisierung von Besucherbewegungen in Innenräumen, 2014
+* <p style="font-size:14px;width:600px;text-align:justify">[Diploma thesis] Visualisierung von Besucherbewegungen in Innenräumen, 2014</p>
 
-* [Bachelor thesis] Ein interaktiver Ansatz zur visuellen Analyse von Trajektorien basierend auf einem Partition-and-Group Clustering Framework 2014/15
+* <p style="font-size:14px;width:600px;text-align:justify">[Bachelor thesis] An Interactive Approach for the Visual Analysis of Trajektories based on a Partition-and-Group Clustering Framework 2014/15</p>
 
-* [Bachelor thesis] Visuelle Analyse von Informationsdiffusion für den Zivilschutz 2014/2015
+* <p style="font-size:14px;width:600px;text-align:justify">[Bachelor thesis] Visuel Analysis of Informationdiffusion for Civil Protection 2014/2015</p>
 
-* [Bachelor project] Interaktive Exploration von Immersiven Beleuchteten 3D Streudiagrammen 2015
+* <p style="font-size:14px;width:600px;text-align:justify">[Bachelor project] Interaktive Exploration of Immersive Illuminated 3D Scatterplots 2015</p>
 
-* [Bachelor project] Cross-Media Orchestration Workbench for Decision-making 2015/2016
+* <p style="font-size:14px;width:600px;text-align:justify">[Bachelor project] Cross-Media Orchestration Workbench for Decision-making 2015/2016</p>
 
-* [Bachelor thesis] Exploration von komplexen Datensätzen in Multi-Display Environments 2015/2016
+* <p style="font-size:14px;width:600px;text-align:justify">[Bachelor thesis] Exploration of Complex Datasets in Multi-Display Environments 2015/2016</p>
 
-* [Master thesis] Semi-automatische Erkennung von Meinungsbildern in Nachrichtenartikeln 2015/2016
+* <p style="font-size:14px;width:600px;text-align:justify">[Master thesis] Semi-automated Detection of Opinion Patterns in News Articles 2015/2016</p>
 
-* [Bachelor thesis] Weiterentwicklung einer Anfragevisualisierung für Ereignissequenzen 2016
+* <p style="font-size:14px;width:600px;text-align:justify">[Bachelor thesis] Extension of a Query Visualization for Event Sequences 2016</p>
 
-* [Bachelor project] Visual Analysis of Driver Behavior Based on Large Taxi Fleet Data 2016
+* <p style="font-size:14px;width:600px;text-align:justify">[Bachelor project] Visual Analysis of Driver Behavior Based on Large Taxi Fleet Data 2016</p>
 
-* [Bachelor thesis] Ein interaktiver visueller Ansatz für das Map Matching von großen Bewegungsdatensätzen 2016/2017
+* <p style="font-size:14px;width:600px;text-align:justify">[Bachelor thesis] VIsual Interactive Map Matching of Large Movement Datasets 2016/2017</p>
 
-* [Master thesis] Visual Analytics of City Dynamics using Soical Media Data 2016/2017
+* <p style="font-size:14px;width:600px;text-align:justify">[Master thesis] Visual Analytics of City Dynamics using Soical Media Data 2016/2017</p>
 
-* [Master thesis] Visual Prediction of Quantitative Information using Social Media Data [laufend]
+* <p style="font-size:14px;width:600px;text-align:justify">[Master thesis] Visual Prediction of Quantitative Information using Social Media Data</p>
