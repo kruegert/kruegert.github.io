@@ -7,7 +7,7 @@ author_profile: true
 
 * <p style="font-size:14px;width:600px;text-align:justify">[Winter Term 12/13] Excercise Group: Grundlagen der Künstlichen Intelligenz</p>
 
-* <p style="font-size:14px;width:600px;text-align:justify">[Summer Term 13] Elaboration for: Datastructures and Algorithms</p>
+* <p style="font-size:14px;width:600px;text-align:justify">[Summer Term 13] Elaboration for: Datastructures and Algorithms Course</p>
 
 * <p style="font-size:14px;width:600px;text-align:justify">[Winter Term 13/14] Seminar Visual Analytics von sozialen Medien</p>
 
