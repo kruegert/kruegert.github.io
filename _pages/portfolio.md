@@ -20,25 +20,25 @@ Furthermore, I work on predictive analytics and immersive analytics approaches.
 Here is a selection of my projects:</p>
 
 
-* Movement and Mobility Analytics
+** Movement and Mobility Analytics
 <p style="font-size:14px;width:600px;text-align:justify">(coming soon)</p>
 
 
-* Social Media Analytics
+** Social Media Analytics
 <p style="font-size:14px;width:600px;text-align:justify">(coming soon)</p>
 
 
-* Predictive Analytics
+** Predictive Analytics
 <p style="font-size:14px;width:600px;text-align:justify">(coming soon)</p>
 
 
-* Immersive Analytics
+** Immersive Analytics
 <p style="font-size:14px;width:600px;text-align:justify">(coming soon)</p>
 
 
-* Web-based Visualization Framework
+** Web-based Visualization Framework
 <p style="font-size:14px;width:600px;text-align:justify">(coming soon)</p>
 
 
-* Connectomics
+** Connectomics
 <p style="font-size:14px;width:600px;text-align:justify">(coming soon)</p>
