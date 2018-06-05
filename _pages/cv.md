@@ -11,49 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+
+* Ph.D in Computer Science (Dr. rer. nat.), Thesis: Visual Analytics of Human Mobility Behavior, University if Stuttgart, 2017 
+* M.S. in Computer Science and Media, Stuttgart Media University (HdM), 2012
+* B.S. in Media and Communication Informatics (Computer Science), Reutlingen University, 2008
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2018 - present: Postdoctoral Researcher @VCG, Harvard University (full position)
+* Summer 2017 - Spring 2018: Postdoctoral Researcher @VIS, University of Stuttgart (full position)
+* Spring 2012 - Spring 2018: PhD Researcher  @VIS, University of Stuttgart (full position)
+* Autumn 2012 - Spring 2018: Software Architect @T-Systems GmbH
+* Spring 2012 - Autumn 2012: Masterthesis @ Robert Bosch GmbH, Stuttgart (full time)
+* Spring 2010 - Summer 2011: Student Trainee @ Fraunhofer IAT, Stuttgart (40h/month)
+* Spring 2006 - Summer 2006: Student Trainee @ Digital Media Center, Stuttgart (full time)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Honors and Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Apr 2018 Edit Award: Honorable Mention - IEEE PacificVis
+* Nov 2017 Edit Award: Best Paper - BDVA 2017
+* Oct 2015 Edit Award: IEEE VAST Challenge: Grand Challenge Award - Comprehensive Visualization Suite
+* Mar 2015 Edit Award: Best Student Paper - IVAPP'16
+* Mar 2014 Edit Award: Best Paper - IEEE Pacific Vis
+* Sep 2013 Edit Award: IEEE VAST Challenge: MC1 - Honorable Mention Award: Deep Visual Exploration of Features
+* Sep 2012 Edit Award: IEEE VAST Challenge: MC1 - Honorable Mention Award: Comprehensive Visualization Suite
+* Mar 2010 Edit Award: Mobile Talent Award
+
+Technical Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Data Visualization (Java2D, Swing, JavaFX, JXMapKit, Prefuse, D3, Leaflet, ..)
+* Unsupervised and Supervised Machine Learning and Mining (Weka, Knime, ..)
+* Software Developement (Java, Javascript, various frameworks, ..)
+* Data Persistence and Management (MongoDB, Neo4J, SQL)
+* Design (Sketching, Adobe Creative Suite)
+
