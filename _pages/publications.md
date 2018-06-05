@@ -13,7 +13,7 @@ Journal Publications
 
 * <div style="font-size:14px;width:600px;text-align:justify">Steptoe, Michael ; <b>Krüger, Robert</b> ; Garcia, Rolando ; Liang, Xing ; Maciejewski, Ross: A Visual Analytics Framework for Exploring Theme Park Dynamics. In: ACM Transaction on Interactive Intelligent Systems, ACM Transaction on Interactive Intelligent Systems. Bd. 8 (2018), Nr. 4., <a href="https://doi.org/10.1109/VAST.2015.7347639">DOI: 10.1109/VAST.2015.7347639</a></div>
 
-* <div style="font-size:14px;width:600px;text-align:justify">Thom, Dennis ; <b>Krüger, Robert</b> ; Ertl, Thomas: Can Twitter Save Lives? A Broad-scale Study on Visual Social Media Analytics for Public Safety. In: IEEE Transactions on Visualization and Computer Graphics (TVCG), Bd. 22 (2016), Nr. 7, DOI: 10.1109/TVCG.2015.2511733</div>
+* <div style="font-size:14px;width:600px;text-align:justify">Thom, Dennis ; <b>Krüger, Robert</b> ; Ertl, Thomas: Can Twitter Save Lives? A Broad-scale Study on Visual Social Media Analytics for Public Safety. In: IEEE Transactions on Visualization and Computer Graphics (TVCG), Bd. 22 (2016), Nr. 7, <a href="https://doi.org/10.1109/TVCG.2015.2511733">DOI: 10.1109/TVCG.2015.2511733</a></div>
 
 * <div style="font-size:14px;width:600px;text-align:justify">Haag, Florian ; <b>Krüger, Robert</b> ; Ertl, Thomas: Visual Querying of Semantically Enriched Movement Data. In: Springer ; Springer (Hrsg.) ; Springer (Hrsg.): Computer Vision, Imaging and Computer Graphics – Theory and Applications: International Joint Conference, VISIGRAPP 2016, 11. Aufl. : Springer International Publishing, 2016</div>
 
