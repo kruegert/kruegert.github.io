@@ -32,14 +32,14 @@ Work experience
 
 Honors and Awards
 -----
-* <p style="font-size:14px;text-align:justify">Apr 2018 Edit Award: Honorable Mention - IEEE PacificVis</p>
-* <p style="font-size:14px;text-align:justify">Nov 2017 Edit Award: Best Paper - BDVA 2017</p>
-* <p style="font-size:14px;text-align:justify">Oct 2015 Edit Award: IEEE VAST Challenge: Grand Challenge Award - Comprehensive Visualization Suite</p>
-* <p style="font-size:14px;text-align:justify">Mar 2015 Edit Award: Best Student Paper - IVAPP'16</p>
-* <p style="font-size:14px;text-align:justify">Mar 2014 Edit Award: Best Paper - IEEE Pacific Vis</p>
-* <p style="font-size:14px;text-align:justify">Sep 2013 Edit Award: IEEE VAST Challenge: MC1 - Honorable Mention Award: Deep Visual Exploration of Features</p>
-* <p style="font-size:14px;text-align:justify">Sep 2012 Edit Award: IEEE VAST Challenge: MC1 - Honorable Mention Award: Comprehensive Visualization Suite</p>
-* <p style="font-size:14px;text-align:justify">Mar 2010 Edit Award: Mobile Talent Award</p>
+* <p style="font-size:14px;text-align:justify">Apr 2018: Honorable Mention - IEEE PacificVis</p>
+* <p style="font-size:14px;text-align:justify">Nov 2017: Best Paper - BDVA 2017</p>
+* <p style="font-size:14px;text-align:justify">Oct 2015: IEEE VAST Challenge: Grand Challenge Award - Comprehensive Visualization Suite</p>
+* <p style="font-size:14px;text-align:justify">Mar 2015: Best Student Paper - IVAPP'16</p>
+* <p style="font-size:14px;text-align:justify">Mar 2014: Best Paper - IEEE Pacific Vis</p>
+* <p style="font-size:14px;text-align:justify">Sep 2013: IEEE VAST Challenge: MC1 - Honorable Mention Award: Deep Visual Exploration of Features</p>
+* <p style="font-size:14px;text-align:justify">Sep 2012: IEEE VAST Challenge: MC1 - Honorable Mention Award: Comprehensive Visualization Suite</p>
+* <p style="font-size:14px;text-align:justify">Mar 2010: Mobile Talent Award</p>
 
 Technical Skills
 -----
