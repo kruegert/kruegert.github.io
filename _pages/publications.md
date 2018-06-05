@@ -17,7 +17,7 @@ Journal Publications
 
 * <div style="font-size:14px;width:600px;text-align:justify">Haag, Florian ; <b>Krüger, Robert</b> ; Ertl, Thomas: Visual Querying of Semantically Enriched Movement Data. In: Springer ; Springer (Hrsg.) ; Springer (Hrsg.): Computer Vision, Imaging and Computer Graphics – Theory and Applications: International Joint Conference, VISIGRAPP 2016, 11. Aufl. : Springer International Publishing, 2016</div>
 
-* <div style="font-size:14px;width:600px;text-align:justify"><b>Krüger, Robert</b> ; Thom, Dennis ; Ertl, Thomas: Semantic Enrichment of Movement Behavior with Foursquare – A Visual Analytics Approach. In: IEEE Transactions on Visualization and Computer Graphics (TVCG), Bd. 21 (2015c), Nr. 8, [DOI: 10.1109/TVCG.2014.2371856](https://doi.org/10.1109/TVCG.2014.2371856)</div>
+* <div style="font-size:14px;width:600px;text-align:justify"><b>Krüger, Robert</b> ; Thom, Dennis ; Ertl, Thomas: Semantic Enrichment of Movement Behavior with Foursquare – A Visual Analytics Approach. In: IEEE Transactions on Visualization and Computer Graphics (TVCG), Bd. 21 (2015c), Nr. 8, <a href="https://doi.org/10.1109/TVCG.2014.2371856">DOI: 10.1109/TVCG.2014.2371856</a></div>
 
 * <div style="font-size:14px;width:600px;text-align:justify">Bosch, Harald ; Thom, Dennis ; Heimerl, Florian ; Püttmann, Edwin ; Koch, Steffen ; <b>Krüger, Robert</b> ; Wörner, Michael ; Ertl, Thomas: ScatterBlogs2: Real-Time Monitoring of Microblog Messages Through User-Guided Filtering. In: IEEE Transactions on Visualization and Computer Graphics (TVCG). Bd. 19 (2013), Nr. 12, DOI: 10.1109/TVCG.2013.186</div>
 
