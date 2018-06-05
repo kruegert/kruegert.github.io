@@ -14,7 +14,7 @@ Latest News
 ======
 
 <span style="color:grey">May 2018, Cambridge, USA</span><br/>
-<span style="font-size: 14px">New Position: Postodctoral Research Fellow @ VCG, Harvard University</span>
+<span style="font-size: 14px">New Position: Postdoctoral Research Fellow @ VCG, Harvard University</span>
 
 <span style="color:grey">April 2018, Kobe, Japan</span><br/>
 <span style="font-size: 14px">TVCG/ IEEE PacificVis Honorable Mention:
