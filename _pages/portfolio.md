@@ -19,26 +19,25 @@ The strengths of visual analytics have been shown to be particularly advantageou
 Furthermore, I work on predictive analytics and immersive analytics approaches.
 Here is a selection of my projects:</p>
 
-
-** Movement and Mobility Analytics
+<b>Movement and Mobility Analytics</b>
 <p style="font-size:14px;width:600px;text-align:justify">(coming soon)</p>
 
 
-** Social Media Analytics
+<b>Social Media Analytics</b>
 <p style="font-size:14px;width:600px;text-align:justify">(coming soon)</p>
 
 
-** Predictive Analytics
+<b>Predictive Analytics</b>
 <p style="font-size:14px;width:600px;text-align:justify">(coming soon)</p>
 
 
-** Immersive Analytics
+<b>Immersive Analytics</b>
 <p style="font-size:14px;width:600px;text-align:justify">(coming soon)</p>
 
 
-** Web-based Visualization Framework
+<b>Web-based Visualization Framework</b>
 <p style="font-size:14px;width:600px;text-align:justify">(coming soon)</p>
 
 
-** Connectomics
+<b>Connectomics</b>
 <p style="font-size:14px;width:600px;text-align:justify">(coming soon)</p>
