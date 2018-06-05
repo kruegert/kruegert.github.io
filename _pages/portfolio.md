@@ -15,8 +15,8 @@ Interactive visualizations allow to explore and query the data and to steer auto
 This increases trust in data, models, and results, which is especially important when critical decisions need to be made. 
 The strengths of visual analytics have been shown to be particularly advantageous when problems and goals are underspecified and exploratory means are needed to discover yet unknown patterns.</p>
 
-<p style="font-size:14px;width:600px;text-align:justify">My specific fields of research comprise the analysis of spatio-temporal data, especially mobility/movement data, social media data, and most recently connectome data. 
-Furthermore, I work on predictive analytics and immersive analytics approaches.
+<p style="font-size:14px;width:600px;text-align:justify">My specific fields of research comprise the analysis of spatio-temporal data, especially <a href="#movementAndMobilityAnalytics">mobility/movement data</a>, <a href="#socialMediaAnalytics">social media data</a>, and most recently <a href="#Connectomics">connectome data</a>. 
+Further research projects include <a href="#predictiveAnalytics">predictive analytics</a> and <a href="#immersiveAnalytics">immersive analytics approaches</a>, and a <a href="#webBasedVisualizationFramework">web/based visualization frameworks</a>.
 Here is a selection of my projects:</p>
 
 <div id="movementAndMobilityAnalytics" class="researchTopic">
