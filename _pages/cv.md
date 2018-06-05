@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Here is a short overview of my CV. Please contact me for a more detailed version.
+
 Education
 -----
 
