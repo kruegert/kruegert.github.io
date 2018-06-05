@@ -19,6 +19,7 @@ Education
 <li style="margin-bottom:2px;"><p style="font-size:14px;text-align:justify">B.S. in Media and Communication Informatics (Computer Science), Reutlingen University, 2008</p></li>
 <li style="margin-bottom:2px;"><p style="font-size:14px;text-align:justify">Techical Gymnasium, full "Abitur", profil: Design & Media Technology, Technical Gymnasium Aalen, 2004</p></li>
 </ul>
+
 Work experience
 -----
 * <p style="font-size:14px;text-align:justify">Spring 2018 - present: Postdoctoral Researcher @VCG, Harvard University (full position)</p>
