@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+-----
 
 * Ph.D in Computer Science (Dr. rer. nat.), University if Stuttgart, 2017 
 * M.S. in Computer Science and Media, Stuttgart Media University (HdM), 2012
@@ -18,7 +18,7 @@ Education
 * Techical Gymnasium, full "Abitur", profil: Design & Media Technology, Reutlingen University, 2004
 
 Work experience
-======
+-----
 * Spring 2018 - present: Postdoctoral Researcher @VCG, Harvard University (full position)
 * Summer 2017 - Spring 2018: Postdoctoral Researcher @VIS, University of Stuttgart (full position)
 * Spring 2012 - Spring 2018: PhD Researcher  @VIS, University of Stuttgart (full position)
@@ -29,7 +29,7 @@ Work experience
 
 
 Honors and Awards
-======
+-----
 * Apr 2018 Edit Award: Honorable Mention - IEEE PacificVis
 * Nov 2017 Edit Award: Best Paper - BDVA 2017
 * Oct 2015 Edit Award: IEEE VAST Challenge: Grand Challenge Award - Comprehensive Visualization Suite
@@ -40,7 +40,7 @@ Honors and Awards
 * Mar 2010 Edit Award: Mobile Talent Award
 
 Technical Skills
-======
+-----
 * Data Visualization (Java2D, Swing, JavaFX, JXMapKit, Prefuse, D3, Leaflet, ..)
 * Unsupervised and Supervised Machine Learning and Mining (Weka, Knime, ..)
 * Software Developement (Java, Javascript, various frameworks, ..)
