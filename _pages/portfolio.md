@@ -21,7 +21,7 @@ Here is a selection of my projects:</p>
 
 <div id="movementAndMobilityAnalytics" class="researchTopic">
 <b>Movement and Mobility Analytics</b>
-<p style="font-size:14px;width:600px;text-align:justify">(coming soon)</p>
+<p style="font-size:14px;width:600px;text-align:justify">The research forcuses on novel visual analytics approaches to derive meaning and reasons behind movement, by taking into account recent big data challenges (i.e., increasing volume, eracity, variety, velocity). This addresses all steps in the analysis process from data retrieval, enrichment, exploration, and verification to externalization of gained knowledge for various fields of application such as electric mobility, event management, and law enforcement. We leverage geo-located social media data to extract up-to-date movement information, but also to enrich movement trajectories from other sources with structured and unstructured information about places, events, transactions, and other observations. Through highly interactive visual interfaces analysts can bring in domain knowledge to deal with uncertainties during data fusion and to steer the subsequent semantic analysis. We work on exploratory and confirmatory analysis techniques to create hypotheses, refine them, and find support in the data. For example, we developed a spatial filtering method using a set-based focus+context technique and a more abstract visual query language to allow explicitly formulate, extract, and query for movement patterns. To cope with the vast amounts of data the visual interfaces are coupled with automatic pattern detection methods to analyze routines and abnormal behavior.</p>
 </div>
 
 <div id="socialMediaAnalytics" class="researchTopic">
