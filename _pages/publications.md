@@ -10,7 +10,7 @@ author_profile: true
 Journal Publications
 ------
 
-* <p style="font-size:14px;width:600px;text-align:justify"><b>Krueger, Robert</b> ; Simeonov, Georgi ; Beck, Fabian ; Ertl, Thomas: Visual Interactive Map Matching. In: Transaction on Visualization and Computer Graphics (TVCG). (2018). Bd. 24 (2018), Nr. 6. (Pacific Vis Honorable Mention), <a href="https://doi.org/10.1109/TVCG.2018.2816219" target="_blank">DOI: <u>10.1109/TVCG.2018.2816219</u></a></p>
+* <p style="font-size:14px;width:600px;text-align:justify"><b>Krueger, Robert</b> ; Simeonov, Georgi ; Beck, Fabian ; Ertl, Thomas: Visual Interactive Map Matching. In: Transaction on Visualization and Computer Graphics (TVCG). (2018). Bd. 24 (2018), Nr. 6. (IEEE Pacific Vis Honorable Mention), <a href="https://doi.org/10.1109/TVCG.2018.2816219" target="_blank">DOI: <u>10.1109/TVCG.2018.2816219</u></a></p>
 
 * <p style="font-size:14px;width:600px;text-align:justify">Steptoe, Michael ; <b>Krüger, Robert</b> ; Garcia, Rolando ; Liang, Xing ; Maciejewski, Ross: A Visual Analytics Framework for Exploring Theme Park Dynamics. In: ACM Transaction on Interactive Intelligent Systems, ACM Transaction on Interactive Intelligent Systems. Bd. 8 (2018), Nr. 4., <a href="https://doi.org/10.1109/VAST.2015.7347639" target="_blank">DOI: <u>10.1109/VAST.2015.7347639</u></a></p>
 
@@ -35,4 +35,10 @@ Conference Publications
 
 * <div style="font-size:14px;width:600px;text-align:justify">Lischke, Lars ; Hoffmann, Jan ; <b>Krüger, Robert</b> ; Bader, Patrick ; Woźniak, Paweł W. ; Schmidt, Albrecht: Towards Interaction Techniques for Social Media Data Exploration on Large High-Resolution Displays. In: ACM ; ACM (Hrsg.) ; ACM (Hrsg.): Proceedings of the 2017 Conference on Human Factors in Computing Systems (CHI EA’17), : ACM, 2017. — Rezensiertes Poster, <a href="http://doi.acm.org/10.1145/3027063.3053229" target="_blank">DOI: <u>10.1145/3027063.3053229</u></a></div>
 
-Tobien, Patrick ; Lischke, Lars ; Hirsch, Marco ; <b>Krüger, Robert</b> ; Lukowicz, Paul ; Schmidt, Albrecht: Engaging People to Participate in Data Collection. In: UbiComp ’16 Proceedings EA, UbiComp ’16 Proceedings EA, 2016. — Rezensiertes Poster, DOI: 10.1145/2968219.2971420
+* <div style="font-size:14px;width:600px;text-align:justify">Tobien, Patrick ; Lischke, Lars ; Hirsch, Marco ; <b>Krüger, Robert</b> ; Lukowicz, Paul ; Schmidt, Albrecht: Engaging People to Participate in Data Collection. In: UbiComp ’16 Proceedings EA, UbiComp ’16 Proceedings EA, 2016. — Rezensiertes Poster, DOI: <a href="https://doi.org/10.1145/2968219.2971420" target="_blank"><u>10.1145/2968219.2971420</u></a></div>
+
+* <div style="font-size:14px;width:600px;text-align:justify">Haag, Florian ; <b>Krüger, Robert</b> ; Ertl, Thomas: VESPa: A Pattern-Based Visual Query Language for Event Sequences. In: Proceedings of the 7th International Conference on Information Visualization Theory and Applications (IVAPP 2016), Bd. 7, 2016a (Best Paper Award), DOI: <a href="https://doi.org/10.5220/0005716900480059" target="_blank"><u>10.5220/0005716900480059</u></a></div>
+
+* <div style="font-size:14px;width:600px;text-align:justify"><b>Krüger, Robert</b> ; Koch, Steffen ; Ertl, Thomas: SaccadeLenses: Interactive Exploratory Filtering of Eye Tracking Trajectories. In: IEEE ; IEEE (Hrsg.) ; IEEE (Hrsg.): Second Workshop on Eye Tracking and VIsualization, Bd. 2 : IEEE, 2016a, DOI: <a href="https://doi.org/10.1109/ETVIS.2016.7851162" target="_blank"><u>10.1109/ETVIS.2016.7851162</u></a></div>
+
+* <div style="font-size:14px;width:600px;text-align:justify"><b>Krüger, Robert</b> ; Sun, Guodao ; Beck, Fabian ; Liang, Ronghua ; Ertl, Thomas: TravelDiff: Visual Comparison Analytics for Massive Movement Patterns Derived from Twitter. In: IEEE Pacific Visualization Symposium (PacificVis), Bd. 9, 2016b, DOI: <a href="https://doi.org/10.1109/PACIFICVIS.2016.7465266" target="_blank"><u>10.1109/PACIFICVIS.2016.7465266</u></a></div>
