@@ -20,6 +20,6 @@ Latest News
 <span style="font-size: 14px">TVCG/ IEEE PacificVis Honorable Mention:
 [Visual Interactive Map Matching](https://www.vis.wiwi.uni-due.de/uploads/tx_itochairt3/publications/pacificvis18-tvcg_map_matching.pdf)</span>
 
-<span style="color:grey">November 2018, Adelaide, Australia</span><br/>
+<span style="color:grey">November 2017, Adelaide, Australia</span><br/>
 <span style="font-size: 14px">IEEE BDVA Best Paper Award:
 [VESPa 2.0: Data-Driven Behavior Models for Visual Analytics of Movement Sequences](https://ieeexplore.ieee.org/abstract/document/8114626/)</span>
