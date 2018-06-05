@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Robert Krueger"
+title                    : "Dr. Robert Krueger"
 title_separator          : "-"
 name                     : &name "Robert Krueger"
 description              : &description "personal description"
