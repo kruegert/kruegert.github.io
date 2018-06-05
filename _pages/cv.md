@@ -12,9 +12,10 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Computer Science (Dr. rer. nat.), Thesis: Visual Analytics of Human Mobility Behavior, University if Stuttgart, 2017 
+* Ph.D in Computer Science (Dr. rer. nat.), University if Stuttgart, 2017 
 * M.S. in Computer Science and Media, Stuttgart Media University (HdM), 2012
 * B.S. in Media and Communication Informatics (Computer Science), Reutlingen University, 2008
+* Techical Gymnasium, full "Abitur", profil: Design & Media Technology, Reutlingen University, 2004
 
 Work experience
 ======
