@@ -27,8 +27,12 @@ Journal Publications
 Conference Publications
 ------
 
-* <div style="font-size:14px;width:600px;text-align:justify">Herr, Dominik ; Reinhardt, Jan ; Reina, Guido; Krueger, Robert ; Ferrari, Rafael Villanueva ; Ertl, Thomas: Immersive Modular Factory Layout Planning using Augmented Reality, CIRP-CMS 2018 (to appear)</div>
+* <div style="font-size:14px;width:600px;text-align:justify">Herr, Dominik ; Reinhardt, Jan ; Reina, Guido; <b>Krueger, Robert</b> ; Ferrari, Rafael Villanueva ; Ertl, Thomas: Immersive Modular Factory Layout Planning using Augmented Reality, CIRP-CMS 2018 (to appear)</div>
 
-* <div style="font-size:14px;width:600px;text-align:justify">Krueger, Robert ; Tremel, Tina ; Thom, Dennis: VESPA 2.0: Data-Driven Behavior Models for Visual Analytics of Movement Sequences. In: IEEE International Symposium on Big Data Visual Analytics (BDVA), 2017 (Best Paper Award) <a href="https://doi.org/10.1109/BDVA.2017.8114626" target="_blank">DOI: <u>10.1109/BDVA.2017.81146262</u></a></div>
+* <div style="font-size:14px;width:600px;text-align:justify"><b>Krueger, Robert</b> ; Tremel, Tina ; Thom, Dennis: VESPA 2.0: Data-Driven Behavior Models for Visual Analytics of Movement Sequences. In: IEEE International Symposium on Big Data Visual Analytics (BDVA), 2017 (Best Paper Award) <a href="https://doi.org/10.1109/BDVA.2017.8114626" target="_blank">DOI: <u>10.1109/BDVA.2017.81146262</u></a></div>
 
-* <div style="font-size:14px;width:600px;text-align:justify">Herr, Dominik ; Reinhardt, Jan ; Krüger, Robert ; Reina, Guido ; Ertl, Thomas: Immersive Visual Analytics for Modular Factory Layout Planning. In: IEEE ; IEEE (Hrsg.) ; IEEE (Hrsg.): Workshop on Immersive Analytics, Workshop on Immersive Analytics : IEEE, 2017, <a href="http://www.aviz.fr/~bbach/immersive2017/papers/IA_2278-paper.pdf" target="_blank"><u>link</u></a></div>
+* <div style="font-size:14px;width:600px;text-align:justify">Herr, Dominik ; Reinhardt, Jan ; <b>Krüger, Robert</b> ; Reina, Guido ; Ertl, Thomas: Immersive Visual Analytics for Modular Factory Layout Planning. In: IEEE ; IEEE (Hrsg.) ; IEEE (Hrsg.): Workshop on Immersive Analytics, Workshop on Immersive Analytics : IEEE, 2017, <a href="http://www.aviz.fr/~bbach/immersive2017/papers/IA_2278-paper.pdf" target="_blank"><u>link</u></a></div>
+
+* <div style="font-size:14px;width:600px;text-align:justify">Lischke, Lars ; Hoffmann, Jan ; <b>Krüger, Robert</b> ; Bader, Patrick ; Woźniak, Paweł W. ; Schmidt, Albrecht: Towards Interaction Techniques for Social Media Data Exploration on Large High-Resolution Displays. In: ACM ; ACM (Hrsg.) ; ACM (Hrsg.): Proceedings of the 2017 Conference on Human Factors in Computing Systems (CHI EA’17), : ACM, 2017. — Rezensiertes Poster, <a href="http://doi.acm.org/10.1145/3027063.3053229" target="_blank">DOI: <u>10.1145/3027063.3053229</u></a></div>
+
+Tobien, Patrick ; Lischke, Lars ; Hirsch, Marco ; <b>Krüger, Robert</b> ; Lukowicz, Paul ; Schmidt, Albrecht: Engaging People to Participate in Data Collection. In: UbiComp ’16 Proceedings EA, UbiComp ’16 Proceedings EA, 2016. — Rezensiertes Poster, DOI: 10.1145/2968219.2971420
