@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-A full list of my publications and citation statistics can also be found on my [Google Scholar](https://scholar.google.com/citations?user=UHmEAooAAAAJ) page.
+<p style="font-size:14px;width:600px;text-align:justify">A full list of my publications and citation statistics can also be found on my [Google Scholar](https://scholar.google.com/citations?user=UHmEAooAAAAJ) page</p>.
 
 Journal Publications
 ------
