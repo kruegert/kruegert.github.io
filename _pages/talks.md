@@ -4,6 +4,9 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+
+<div style="font-size:14px;max-width:600px;">
+  
 <span style="color:grey">Feb 2018, Cimplex - Bringing Citizens together in Participatory Interactive Social Exploratiries,  German Research Center for Artificial Intelligence (DFKI), Kaiserslautern, Germany</span><br/>
 <span style="font-size: 14px">Final Presentation for EU H2020 project</span>
 
@@ -34,3 +37,4 @@ author_profile: true
 <span style="color:grey">Jan 2015, IEEE Hawaiian International Conference on System Scieces, Kauai, HI, USA</span><br/>
 <span style="font-size: 14px">Paper presentation</span>
 
+</div>
