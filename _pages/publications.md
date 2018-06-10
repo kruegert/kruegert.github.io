@@ -45,7 +45,7 @@ Conference Publications
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Lu, Yafeng ; <b>Krüger, Robert</b> ; Thom, Dennis ; Wang, Feng ; Koch, Steffen ; Ertl, Thomas ; Maciejewski, Ross: Integrating Predictive Analytics and Social Media. In: IEEE Conference on Visual Analytics Science and Technology (VAST), Bd. 2014, DOI: <a href="http://doi.acm.org/10.1145/3162076" target="_blank"><u>10.1145/3162076</u></a></div>
 
-Works Publications
+Workshop Publications
 ------
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Herr, Dominik ; Reinhardt, Jan ; <b>Krüger, Robert</b> ; Reina, Guido ; Ertl, Thomas: Immersive Visual Analytics for Modular Factory Layout Planning. In: IEEE Workshop on Immersive Analytics, Workshop on Immersive Analytics : IEEE, 2017, <a href="http://www.aviz.fr/~bbach/immersive2017/papers/IA_2278-paper.pdf" target="_blank"><u>link</u></a></div>
