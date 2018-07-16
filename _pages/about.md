@@ -13,6 +13,9 @@ redirect_from:
 Latest News
 ======
 
+<span style="color:grey">July 2018</span><br/>
+<span style="font-size: 14px"> Our new paper is published: [Immersive Modular Factory Layout Planning using Augmented Reality](https://www.sciencedirect.com/science/article/pii/S2212827118303597)</span>
+
 <span style="color:grey">May 2018, Cambridge, USA</span><br/>
 <span style="font-size: 14px">New Position: Postdoctoral Research Fellow @ <a href="https://vcg.seas.harvard.edu/" target="_blank">VCG</a>, <a href="https://www.harvard.edu/" target="_blank">Harvard University</a></span>
 
