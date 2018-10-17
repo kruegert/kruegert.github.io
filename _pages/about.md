@@ -13,6 +13,9 @@ redirect_from:
 Latest News
 ======
 
+<span style="color:grey">Oct 2018</span><br/>
+<span style="font-size: 14px">My dissertation was selected for an Honorable Mention for VGTC VPG best dissertation award at IEEE VIS 2018</span>
+
 <span style="color:grey">July 2018</span><br/>
 <span style="font-size: 14px"> Our new paper is published: [Immersive Modular Factory Layout Planning using Augmented Reality](https://www.sciencedirect.com/science/article/pii/S2212827118303597)</span>
 
