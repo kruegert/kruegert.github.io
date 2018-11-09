@@ -28,9 +28,9 @@ Conference Publications
 ------
 
 
-* <div style="font-size:14px;max-width:600px;text-align:justify">Behrisch, Michael ; <b>Krueger, Robert</b> ; Lekschas, Fritz ; Schreck, Tobias ; Gehlenborg, Nils ; Pfister, Hanspeter: "Visual Pattern-Driven Exploration of Big Data.", IEEE Big Data Visual Analytics (BDVA) 2018 <a href="https://arxiv.org/abs/1807.01364" target="_blank"> <u>arXiv preprint arXiv:1807.01364</u></a></div>
+* <div style="font-size:14px;max-width:600px;text-align:justify">Behrisch, Michael ; <b>Krueger, Robert</b> ; Lekschas, Fritz ; Schreck, Tobias ; Gehlenborg, Nils ; Pfister, Hanspeter: Visual Pattern-Driven Exploration of Big Data. In: IEEE Big Data Visual Analytics (BDVA) 2018 <a href="https://arxiv.org/abs/1807.01364" target="_blank"> <u>arXiv preprint arXiv:1807.01364</u></a></div>
 
-* <div style="font-size:14px;max-width:600px;text-align:justify">Herr, Dominik ; Reinhardt, Jan ; Reina, Guido; <b>Krueger, Robert</b> ; Ferrari, Rafael Villanueva ; Ertl, Thomas: Immersive Modular Factory Layout Planning using Augmented Reality, CIRP-CMS 2018 <a href="https://doi.org/10.1016/j.procir.2018.03.200" target="_blank">DOI: <u>10.1016/j.procir.2018.03.200</u></a></div>
+* <div style="font-size:14px;max-width:600px;text-align:justify">Herr, Dominik ; Reinhardt, Jan ; Reina, Guido; <b>Krueger, Robert</b> ; Ferrari, Rafael Villanueva ; Ertl, Thomas: Immersive Modular Factory Layout Planning using Augmented Reality, In: CIRP-CMS 2018 <a href="https://doi.org/10.1016/j.procir.2018.03.200" target="_blank">DOI: <u>10.1016/j.procir.2018.03.200</u></a></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify"><b>Krueger, Robert</b> ; Tremel, Tina ; Thom, Dennis: VESPA 2.0: Data-Driven Behavior Models for Visual Analytics of Movement Sequences. In: IEEE International Symposium on Big Data Visual Analytics (BDVA), 2017 <b>(Best Paper Award)</b> <a href="https://doi.org/10.1109/BDVA.2017.8114626" target="_blank">DOI: <u>10.1109/BDVA.2017.81146262</u></a></div>
 
