@@ -72,3 +72,9 @@ Workshop Publications
 * <div style="font-size:14px;max-width:600px;text-align:justify"><b>Krüger, Robert</b> ; Bosch, Harald ; Koch, Steffen ; Müller, Christoph ; Reina, Guido ; Thom, Dennis ; Ertl, Thomas: HIVEBEAT – A Highly Interactive Visualization Environment for Broad-Scale Exploratory Analysis and Tracing. In: IEEE Conference on Visual Analytics Science and Technology (VAST), Bd. 2012 <b>(Honorable Mention)</b>, DOI: <a href="https://doi.org/10.1109/VAST.2012.6400518" target="_blank"><u>10.1109/VAST.2012.6400518</u></a></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify"><b>Krüger, Robert</b> ; Lohmann, Steffen ; Thom, Dennis ; Bosch, Harald ; Ertl, Thomas: Using Social Media Content in the Visual Analysis of Movement Data. In: 2nd Workshop on Interactive Visual Text Analytics, 2nd Workshop on Interactive Visual Text Analytics, 2012 <a href="https://pdfs.semanticscholar.org/37cd/b884f87c031ecebbb82ed2aa279a497a58b5.pdf" target="_blank"><u>link</u></a></div>
+
+Dissertation
+------
+
+* <div style="font-size:14px;max-width:600px;text-align:justify"><b>Krüger, Robert</b>: Visual Analytics of Human Hobility Behavior.
+  <a href="" target="_blank"><u>link</u></a></div>
