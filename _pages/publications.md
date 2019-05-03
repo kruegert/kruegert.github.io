@@ -10,6 +10,8 @@ author_profile: true
 Journal Publications
 ------
 
+* <div style="font-size:14px;max-width:600px;text-align:justify"><b>Krüger, Robert</b> ; Qi, Han ; Ivanov, Nikolay ; Mahtal, Sanae ; Thom, Dennis; Pfister, Hanspeter; Ertl, Thomas: Bird’s-Eye - Large-Scale Visual Analytics of City Dynamics using Social Location Data. In: Computer Graphics Forum (CGF) (proceedings of The Eurographics Conference on Visualization), Bd. 2019, (to be published)</div>
+
 * <p style="font-size:14px;max-width:600px;text-align:justify"><b>Krueger, Robert</b> ; Simeonov, Georgi ; Beck, Fabian ; Ertl, Thomas: Visual Interactive Map Matching. In: Transaction on Visualization and Computer Graphics (TVCG), Bd. 24 (2018), Nr. 6. <b>(PacificVis Honorable Mention)</b>, <a href="https://doi.org/10.1109/TVCG.2018.2816219" target="_blank">DOI: <u>10.1109/TVCG.2018.2816219</u></a></p>
 
 * <p style="font-size:14px;max-width:600px;text-align:justify">Steptoe, Michael ; <b>Krüger, Robert</b> ; Garcia, Rolando ; Liang, Xing ; Maciejewski, Ross: A Visual Analytics Framework for Exploring Theme Park Dynamics. In: ACM Transaction on Interactive Intelligent Systems. Bd. 8 (2018), Nr. 4., <a href="https://doi.org/10.1109/VAST.2015.7347639" target="_blank">DOI: <u>10.1109/VAST.2015.7347639</u></a></p>
