@@ -76,4 +76,4 @@ Workshop Publications
 Dissertation
 ------
 
-* <div style="font-size:14px;max-width:600px;text-align:justify"><b>Krüger, Robert</b>: Visual Analytics of Human Hobility Behavior, 2017 <a href="https://elib.uni-stuttgart.de/bitstream/11682/9733/3/dissertation_krueger_robert.pdf" target="_blank">, <u>link</u></a>, DOI: <a href="http://dx.doi.org/10.18419/opus-9716" target="_blank"><u>10.18419/opus-9716</u></a></div>
+* <div style="font-size:14px;max-width:600px;text-align:justify"><b>Krüger, Robert</b>: Visual Analytics of Human Hobility Behavior, 2017, <a href="https://elib.uni-stuttgart.de/bitstream/11682/9733/3/dissertation_krueger_robert.pdf" target="_blank"><u>link</u></a>, DOI: <a href="http://dx.doi.org/10.18419/opus-9716" target="_blank"><u>10.18419/opus-9716</u></a></div>
