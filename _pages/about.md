@@ -13,6 +13,9 @@ redirect_from:
 Latest News
 ======
 
+<span style="color:grey">Apr 2019</span><br/>
+<span style="font-size: 14px">I was awarded with a  [Harvard Certificate of Distinction and Excellence in Teaching (Q Awards)](https://bokcenter.harvard.edu/teaching-awards)</span>
+
 <span style="color:grey">Oct 2018</span><br/>
 <span style="font-size: 14px">My dissertation was selected (and will be awarded) as one of two Honorable Mentions of this year's [VGTC VPG best dissertation award at IEEE VIS 2018](http://vacommunity.org/ieeevpg/bestthesis)</span>
 
