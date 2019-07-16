@@ -13,6 +13,9 @@ redirect_from:
 Latest News
 ======
 
+<span style="color:grey">July 2019</span><br/>
+<span style="font-size: 14px">Two vast papers accepted for IEEE VIS 2020/Transaction on Visualization and COmputer Graphics. Stay tuned.</span>
+
 <span style="color:grey">Apr 2019</span><br/>
 <span style="font-size: 14px">I am grateful for being awarded with a  [Harvard Certificate of Distinction and Excellence in Teaching (Q Awards)](https://bokcenter.harvard.edu/teaching-awards)</span>
 
