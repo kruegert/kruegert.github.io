@@ -10,7 +10,7 @@ author_profile: true
 Journal Publications
 ------
 
-* <div style="font-size:14px;max-width:600px;text-align:justify"><b>Gehrmann, Sebastian</b> ; Strobelt , Hendrik ; Krüger , Robert ; Pfister , Hanspeter ; Rush ; Alexander M: Visual Interaction with Deep Learning Models through Collaborative Semantic Inference. In: Transaction on Visualization and Computer Graphics (TVCG), accepted - to appear. <a href="https://arxiv.org/pdf/1907.10739.pdf" target="_blank">preprint on arXiv</a></div>
+* <div style="font-size:14px;max-width:600px;text-align:justify">Gehrmann, Sebastian ; Strobelt , Hendrik ; <b>Krüger , Robert</b> ; Pfister , Hanspeter ; Rush ; Alexander M: Visual Interaction with Deep Learning Models through Collaborative Semantic Inference. In: Transaction on Visualization and Computer Graphics (TVCG), accepted - to appear. <a href="https://arxiv.org/pdf/1907.10739.pdf" target="_blank">preprint on arXiv</a></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify"><b>Krüger, Robert</b> ; Beyer , Johanna ; Jang , Won-Dong ; Kim , Nam Wook ; Sokolov, Arten ; Sorger , Peter K. ; Pfister , Hanspeter: Facetto: Combining Unsupervised and Supervised Learning for Hierarchical Phenotype Analysis in Multi-Channel Image Data. In: Transaction on Visualization and Computer Graphics (TVCG), accepted - to appear</div>
 
