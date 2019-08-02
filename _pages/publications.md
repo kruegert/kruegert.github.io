@@ -10,6 +10,8 @@ author_profile: true
 Journal Publications
 ------
 
+* <div style="font-size:14px;max-width:600px;text-align:justify"><b>Gehrmann, Sebastian</b> ; Strobelt , Hendrik ; Krüger , Robert ; Pfister , Hanspeter ; Rush ; Alexander M: Visual Interaction with Deep Learning Models through Collaborative Semantic Inference. In: Transaction on Visualization and Computer Graphics (TVCG), accepted - to appear. <a href="https://arxiv.org/pdf/1907.10739.pdf" target="_blank">preprint on arXiv</a></div>
+
 * <div style="font-size:14px;max-width:600px;text-align:justify"><b>Krüger, Robert</b> ; Beyer , Johanna ; Jang , Won-Dong ; Kim , Nam Wook ; Sokolov, Arten ; Sorger , Peter K. ; Pfister , Hanspeter: Facetto: Combining Unsupervised and Supervised Learning for Hierarchical Phenotype Analysis in Multi-Channel Image Data. In: Transaction on Visualization and Computer Graphics (TVCG), accepted - to appear</div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify"><b>Krüger, Robert</b> ; Qi, Han ; Ivanov, Nikolay ; Mahtal, Sanae ; Thom, Dennis ; Pfister, Hanspeter ; Ertl, Thomas: Bird’s-Eye - Large-Scale Visual Analytics of City Dynamics using Social Location Data. In: Computer Graphics Forum (CGF) (proceedings of The Eurographics Conference on Visualization), Bd. 2019, <a href="https://doi.org/10.1111/cgf.13713" target="_blank">DOI: <u>10.1111/cgf.13713</u></a></div>
