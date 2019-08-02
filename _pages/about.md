@@ -14,7 +14,7 @@ Latest News
 ======
 
 <span style="color:grey">July 2019</span><br/>
-<span style="font-size: 14px">Two new papers accepted for IEEE VIS 2019 VAST track and the Transaction on Visualization and Computer Graphics journal. Stay tuned.</span>
+<span style="font-size: 14px">Two new papers accepted for IEEE VIS 2019 VAST track and the Transaction on Visualization and Computer Graphics journal. See <a href="https://kruegert.github.io/publications/">publications</a>.</span>
 
 <span style="color:grey">Apr 2019</span><br/>
 <span style="font-size: 14px">I am grateful for being awarded with a  [Harvard Certificate of Distinction and Excellence in Teaching (Q Awards)](https://bokcenter.harvard.edu/teaching-awards)</span>
