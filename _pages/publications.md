@@ -10,6 +10,8 @@ author_profile: true
 Journal Publications
 ------
 
+* <div style="font-size:14px;max-width:600px;text-align:justify">Rashid, Rumana ; Chen, Yu-An ; Hoffer, John ; Muhlich, Jeremy L. ; Lin, Jia-Ren ; <b>Krüger Robert</b> ; Pfister, Hanspeter ; Mitchell, Richard ; Santagata, Sandro ; Sorger, Peter K. "Interpretative Guides for Interacting with Tissue Atlas and Digital Pathology Data using the Minerva Browser." bioRxiv (2020).<a href="https://www.biorxiv.org/content/10.1101/2020.03.27.001834v1.full.pdf" target="_blank"><u>preprint on arXiv</u></a></div>
+
 * <div style="font-size:14px;max-width:600px;text-align:justify">Gehrmann, Sebastian ; Strobelt , Hendrik ; <b>Krüger , Robert</b> ; Pfister , Hanspeter ; Rush , Alexander M: Visual Interaction with Deep Learning Models through Collaborative Semantic Inference. In: Transaction on Visualization and Computer Graphics (TVCG), 2019, <a href="https://arxiv.org/pdf/1907.10739.pdf" target="_blank"><u>preprint on arXiv</u></a></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify"><b>Krüger, Robert</b> ; Beyer , Johanna ; Jang , Won-Dong ; Kim , Nam Wook ; Sokolov, Arten ; Sorger , Peter K. ; Pfister , Hanspeter: Facetto: Combining Unsupervised and Supervised Learning for Hierarchical Phenotype Analysis in Multi-Channel Image Data. In: Transaction on Visualization and Computer Graphics (TVCG), 2019, <a href="https://doi.org/10.1101/722918" target="_blank"><u>preprint on biorXiv</u></a></div>
