@@ -10,10 +10,6 @@ author_profile: true
 Journal Publications
 ------
 
-Online narrative guides for illuminating tissue atlas data and digital pathology images
-
-John Hoffer, Rumana Rashid, Jeremy L Muhlich, Yu-An Chen, Douglas Peter William Russell, Juha Ruokonen, Robert Krueger, Hanspeter Pfister, Sandro Santagata, Peter K Sorger
-
 * <div style="font-size:14px;max-width:600px;text-align:justify">Hoffer, John; Rashid, Rumana ; Muhlic, Jeremy L ; Chen, Yu-An. ; Russell, Douglas Peter William ; <b>Ruokonen, Juha</b> ; Krueger, Robert ; Pfister, Hanspeter ; Santagata, Sandro ; Sorger, Peter K.. "Minerva: a light-weight, narrative image browser for multiplexed tissue images." Journal of Open Source Software. 2020 Oct 15;5(54):2579, <a href="https://doi.org/10.21105/joss.02579" target="_blank">DOI: <u>10.21105/joss.02579</u></a></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Rashid, Rumana; Chen, Yu-An ; Hoffer, John ; Muhlich, Jeremy L. ; Lin, Jia-Ren ; <b>Krueger, Robert</b> ; Pfister, Hanspeter ; Mitchell, Richard ; Santagata, Sandro ; Sorger, Peter K.. "Online Narrative Guides for Illuminating Tissue Atlas Data and Digital Pathology Images." bioRxiv (2020) - under review, <a href="https://www.biorxiv.org/content/10.1101/2020.03.27.001834v2.full.pdf" target="_blank"><u>preprint on arXiv</u></a></div>
