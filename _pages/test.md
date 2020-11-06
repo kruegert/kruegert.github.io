@@ -468,7 +468,7 @@ You can read more about D3's zooming component here: [https://github.com/d3/d3-z
 		.append("rect")
 			.attr("width", width)
 			.attr("height", height);
-		```
+```
 
 Then you apply the clipping in ```updateVis()``` by adding a the clip-path attribute to your path:
 
