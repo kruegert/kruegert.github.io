@@ -10,7 +10,7 @@ author_profile: true
 Journal Publications
 ------
 
-* <div style="font-size:14px;max-width:600px;text-align:justify">Strobelt, Hendrik; Jambay, Kinley; <b>Krueger, Robert</b>; Beyer, Johanna; Pfister, Hanspeter; Rush, Alexander. "GenNI: Human-AI Collaboration for Data-Backed Text Generation". IEEE Transaction on Visualization and Computer Graphics. 2021 Oct 4, <a href="https://doi.org/10.1109/TVCG.2021.3114845" target="_blank">DOI: <u>10.1109/TVCG.2021.3114845</u></a></div>
+* <div style="font-size:14px;max-width:600px;text-align:justify">Strobelt, Hendrik; Jambay, Kinley; <b>Krueger, Robert</b>; Beyer, Johanna; Pfister, Hanspeter; Rush, Alexander M. "GenNI: Human-AI Collaboration for Data-Backed Text Generation". IEEE Transaction on Visualization and Computer Graphics. 2021 Oct 4, <a href="https://doi.org/10.1109/TVCG.2021.3114845" target="_blank">DOI: <u>10.1109/TVCG.2021.3114845</u></a></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Jessup, Jared#; <b>Krueger, Robert</b>#; Warchole, Simon; Hoffer, John; Muhlich, Jeremy; Ritch, Cecily C; Gaglia, Giorgio; Coy, Shannon; Chen, Yu-An; Lin, Jia-Ren; Santagata, Sando; Sorger, Peter K.; Pfister, Hanspeter. "Scope2Screen: Focus+Context Techniques for Pathology TumorAssessment in Multivariate Image Data". IEEE Transaction on Visualization and Computer Graphics. 2021 Oct 4, <a href="https://doi.org/10.1109/TVCG.2021.3114786" target="_blank">DOI: <u>10.1109/TVCG.2021.3114786</u></a>--# shared first-author</div>
 
