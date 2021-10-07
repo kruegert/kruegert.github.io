@@ -9,8 +9,9 @@ author_profile: true
 
 Journal Publications
 ------
+* <div style="font-size:14px;max-width:600px;text-align:justify">Jessup, Jared; Krueger, Robert; Warchole, Simon; Hoffer, John; Muhlich, Jeremy; Ritch, Cecily C; Gaglia, Giorgio; Coy; Shannon; Chen, Yu-An; lin, Jia-Ren; Santagata, Sando; Sorger, Peter K.; Pfister, Hanspeter. "Scope2Screen: Focus+Context Techniques for Pathology TumorAssessment in Multivariate Image Data". IEEE Transaction on Visualization and Computer Graphics. 2021 Oct 4, <a href="https://doi.org/10.1109/TVCG.2021.3114786" target="_blank">DOI: <u>10.1109/TVCG.2021.3114786</u></a></div>
 
-* <div style="font-size:14px;max-width:600px;text-align:justify">Rozenblatt-Rosen, Orit et al. "The Human Tumor Atlas Network: charting tumor transitions across space and time at single-cell resolution." The Human Tumor Atlas Network: charting tumor transitions across space and time at single-cell resolution. Cell 181.2 (2020): 236-249. <a href="https://doi.org/10.1016/j.cell.2020.03.053" target="_blank">DOI: <u>10.1016/j.cell.2020.03.053</u></a></div>
+* <div style="font-size:14px;max-width:600px;text-align:justify">Rozenblatt-Rosen, Orit et al. "The Human Tumor Atlas Network: charting tumor transitions across space and time at single-cell resolution." Cell 181.2 (2020): 236-249. <a href="https://doi.org/10.1016/j.cell.2020.03.053" target="_blank">DOI: <u>10.1016/j.cell.2020.03.053</u></a></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Hoffer, John; Rashid, Rumana ; Muhlic, Jeremy L ; Chen, Yu-An. ; Russell, Douglas Peter William ; Ruokonen, Juha ; <b>Krueger, Robert</b> ; Pfister, Hanspeter ; Santagata, Sandro ; Sorger, Peter K. "Minerva: a light-weight, narrative image browser for multiplexed tissue images." Journal of Open Source Software. 2020 Oct 15;5(54):2579, <a href="https://doi.org/10.21105/joss.02579" target="_blank">DOI: <u>10.21105/joss.02579</u></a></div>
 
