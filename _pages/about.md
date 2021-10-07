@@ -14,7 +14,7 @@ Latest News
 ======
 
 <span style="color:grey">Sept 2021</span><br/>
-<span style="font-size: 14px">Since Fall 2021 I am leading a subgroup at VCG Harvard that collaborates with the Laboratory of Systems Pharmacology (at HMS) on visualization and analysis of biomedical datasets.</span>
+<span style="font-size: 14px">Since Fall 2021 I am leading a subgroup at VCG Harvard that collaborates with the Laboratory of Systems Pharmacology (at Harvard Medical School) on visualization and analysis of biomedical datasets.</span>
 
 <span style="color:grey">Sept 2021</span><br/>
 <span style="font-size: 14px">Two new papers accepted for IEEE VIS 2021 and the Transaction on Visualization and Computer Graphics journal. Scope2Screen is a focus+context-based exploration and annotation approach for large multiplex biomedical image data, and GenNI is a human-AI collaboration for data-backed text generation. See <a href="https://kruegert.github.io/publications/">publications</a>.</span>
