@@ -13,6 +13,9 @@ redirect_from:
 Latest News
 ======
 
+<span style="color:grey">Nov 2021</span><br/>
+<span style="font-size: 14px">Our paper [Narrative Online Guides for the Interpretation of Digital-Pathology Images and Tissue-Atlas Data](https://doi.org/10.1038/s41551-021-00789-8) appeared in Nature Biomedical Engineering</span>
+
 <span style="color:grey">Sept 2021</span><br/>
 <span style="font-size: 14px">Since Fall 2021 I am leading a subgroup at VCG Harvard that collaborates with the Laboratory of Systems Pharmacology (at Harvard Medical School) on visualization and analysis of biomedical datasets.</span>
 
