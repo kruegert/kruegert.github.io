@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+r# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Robert Krueger"
-  avatar           : "headshot_new.jpg"
+  avatar           : "krueger.jpg"
   bio              : "Postdoctoral Research Fellow at Harvard University"
   location         : "Cambridge, MA"
   employer         :
