@@ -14,10 +14,10 @@ Latest News
 ======
 
 <span style="color:grey">Nov 2021</span><br/>
-<span style="font-size: 14px">The preprint of our collaboration paper [Lymphocyte networks are dynamic cellular communities in the immunoregulatory landscape of lung adenocarcinoma](https://www.biorxiv.org/content/10.1101/2022.08.11.503237v1) appeared on bioArxiv</span>
+<span style="font-size: 14px">The preprint of our collaboration paper [Lymphocyte networks are dynamic cellular communities in the immunoregulatory landscape of lung adenocarcinoma](https://www.biorxiv.org/content/10.1101/2022.08.11.503237v1) appeared on bioArxiv.</span>
 
 <span style="color:grey">Nov 2021</span><br/>
-<span style="font-size: 14px">The preprint of our IEEE VIS 2022 paper [Visinity: Visual Spatial Neighborhood Analysis for Multiplexed Tissue Imaging Data](https://doi.org/10.1101/2022.05.09.490039) appeared on bioArxiv</span>
+<span style="font-size: 14px">The preprint of our IEEE VIS 2022 paper [Visinity: Visual Spatial Neighborhood Analysis for Multiplexed Tissue Imaging Data](https://doi.org/10.1101/2022.05.09.490039) appeared on bioArxiv.</span>
 
 <span style="color:grey">Nov 2021</span><br/>
 <span style="font-size: 14px">Our paper [Narrative Online Guides for the Interpretation of Digital-Pathology Images and Tissue-Atlas Data](https://doi.org/10.1038/s41551-021-00789-8) appeared in Nature Biomedical Engineering</span>
