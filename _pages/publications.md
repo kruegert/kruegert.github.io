@@ -10,6 +10,8 @@ author_profile: true
 Journal Publications
 ------
 
+* <div style="font-size:14px;max-width:600px;text-align:justify">Schapiro, Dennis; Yapp, Clarence; Sokolov, Artem, Reynolds, S.M., Chen, Yu-An, Sudar, Damir, et al., 2022. MITI Minimum Information Guidelines for Highly Multiplexed Tissue Images. Nature Methods, 2022. 19(3), pp.262-267. <a href="https://doi.org/10.1038/s41592-022-01415-4" target="_blank">DOI: <u>10.1038/s41592-022-01415-4</u></a></div>
+
 * <div style="font-size:14px;max-width:600px;text-align:justify">Yang, Yalong; Xia, Wenyu; Lekschas, Fritz; Nobre, Caroline; <b>Krueger, Robert</b>; Pfister, Hanspeter. "The Pattern is in the Details: An Evaluation of Interaction Techniques for Locating, Searching, and Contextualizing Details in Multivariate Matrix Visualizations". Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI), 2022., <a href="https://vcg.seas.harvard.edu/publications/the-pattern-is-in-the-details-an-evaluation-of-interaction-techniques-for-locating-searching-and-contextualizing-details-in-multivariate-matrix-visualizations/paper" target="_blank">conditionally accepted, to be published</a></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Strobelt, Hendrik; Jambay, Kinley; <b>Krueger, Robert</b>; Beyer, Johanna; Pfister, Hanspeter; Rush, Alexander M. "GenNI: Human-AI Collaboration for Data-Backed Text Generation". IEEE Transaction on Visualization and Computer Graphics. 2021 Oct 4, <a href="https://doi.org/10.1109/TVCG.2021.3114845" target="_blank">DOI: <u>10.1109/TVCG.2021.3114845</u></a></div>
