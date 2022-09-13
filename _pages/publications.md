@@ -10,7 +10,7 @@ author_profile: true
 Journal Publications
 ------
 
-* <div style="font-size:14px;max-width:600px;text-align:justify">Warchol, Simon#; <b>Krueger, Robert</b>#; Nirmal, Ajit Johnson; Gaglia, Giorgio; Jessup, Jared; Ritch, Cecily C; Hoffer, John; Muhlich, Jeremy; Burger, Megan; Jacks, Tyler L; Santagata, Sandro; Sorger, Peter K; Pfister, H. 2022. Visinity: Visual Spatial Neighborhood Analysis for Multiplexed Tissue Imaging Data. to appear in Transaction and Computer Graphics. <a href="https://doi.org/10.1101/2022.05.09.490039" target="_blank">DOI: <u>10.1101/2022.05.09.490039</u></a>--# shared first-author</div>
+* <div style="font-size:14px;max-width:600px;text-align:justify">Warchol, Simon#; <b>Krueger, Robert</b>#; Nirmal, Ajit Johnson; Gaglia, Giorgio; Jessup, Jared; Ritch, Cecily C; Hoffer, John; Muhlich, Jeremy; Burger, Megan; Jacks, Tyler L; Santagata, Sandro; Sorger, Peter K; Pfister, H. 2022. Visinity: Visual Spatial Neighborhood Analysis for Multiplexed Tissue Imaging Data. to appear in Transaction and Computer Graphics. <a href="https://doi.org/10.1101/2022.05.09.490039" target="_blank">DOI:  <u>10.1101/2022.05.09.490039</u></a> --# shared first-author</div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Schapiro, Dennis; Yapp, Clarence; Sokolov, Artem, Reynolds, S.M., Chen, Yu-An, Sudar, Damir, et al., 2022. MITI Minimum Information Guidelines for Highly Multiplexed Tissue Images. Nature Methods, 2022. 19(3), pp.262-267. <a href="https://doi.org/10.1038/s41592-022-01415-4" target="_blank">DOI: <u>10.1038/s41592-022-01415-4</u></a></div>
 
