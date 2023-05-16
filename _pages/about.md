@@ -10,10 +10,12 @@ redirect_from:
 
 <p style="text-align:justify">I am a postdoc research fellow and subgroup leader at <a href="https://vcg.seas.harvard.edu/" target="_blank">VCG Harvard</a>, School of Engineering and Applied Sciences at <a href="https://www.harvard.edu/" target="_blank">Harvard University</a> and a senior research scientist at the <a href="https://hits.harvard.edu/the-program/laboratory-of-systems-pharmacology/about/" target="_blank">Laboratory of Systems Pharmacology, Harvard Medical School</a>. I received my MS in Computer Science and Media at the Stuttgart Media University in 2012 and my Ph.D. degree (Dr. rer. nat.) in Computer Science at the Institute for Visualization and Interactive Systems, University of Stuttgart in 2017. My <a href="https://kruegert.github.io/portfolio/">research</a> interests lie in the field of data visualization and visual analytics for on spatial and spatially-referenced multivariate data with a focus on biomedical visualization.<br/><br/></p>
 
-I am on the job market. I am looking for tenure track faculty positions  (assistant professor). 
 
 Latest News
 ======
+
+<span style="color:grey">May 2023</span><br/>
+<span style="font-size: 14px">I am excited to announce that I will start as an Assistant Professor (tenure track) at NYU in New York City this fall! I am looking forward to join the team at the Visualization Imaging and Data Analysis Center (VIDA) at NYU Tandon.</span>
 
 <span style="color:grey">Nov 2022</span><br/>
 <span style="font-size: 14px">The preprint of our collaboration paper [Lymphocyte networks are dynamic cellular communities in the immunoregulatory landscape of lung adenocarcinoma](https://www.biorxiv.org/content/10.1101/2022.08.11.503237v1) appeared on bioArxiv.</span>
