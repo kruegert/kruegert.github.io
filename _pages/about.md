@@ -14,6 +14,9 @@ redirect_from:
 Latest News
 ======
 
+<span style="color:grey">September 2023</span><br/>
+<span style="font-size: 14px">Our new paper [Residency Octree: A Hybrid Approach for Scalable Web-Based Multi-Volume Rendering](https://arxiv.org/pdf/2309.04393.pdf) aids biomedical experts in exploring and analyzing biomedical processes in cancerous tissue. It will be published on IEEE Explore and presented at IEEE VIS 2023 in Melbourne.</span>
+
 <span style="color:grey">May 2023</span><br/>
 <span style="font-size: 14px">I am excited to announce that I will start as an Assistant Professor (tenure track) at NYU in New York City this fall! I am looking forward to join the team at the Visualization Imaging and Data Analysis Center (VIDA) at NYU Tandon.</span>
 
