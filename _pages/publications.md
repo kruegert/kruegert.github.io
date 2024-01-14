@@ -10,6 +10,8 @@ author_profile: true
 Journal Publications
 ------
 
+* <div style="font-size:14px;max-width:600px;text-align:justify">Prabhakaran, Sandhya; Yapp, Clarence; Baker, Gregory J; Beyer, Johanna; Hwan Chang, Young;  Creason, Allison L; Krueger,  Robert; Muhlich, Jeremy; Patterson, Nathan Heath; Sidak, Kevin; Sudar, Damir ; Taylor, Adam J; Ternes, Luke; Troidl, Jakob ; Xie, Yubin ; Sokolov, Artem ; Tyson, Darren R. Addressing Persistent Challenges in Digital Image Analysis of Cancerous Tissues. Cold Spring Harbor Laboratory Preprints / National Laboratory of Medicine, 2024. <a href="https://doi.org/10.1101%2F2023.07.21.548450" target="_blank">DOI:  <u>10.1101%2F2023.07.21.548450</u></a></div>
+
 * <div style="font-size:14px;max-width:600px;text-align:justify">Herzberger, Lukas; Hadwiger, Markus; Krüger, Robert ;  Sorger, Peter; Pfister, Hanspeter; Gröller, Eduard; Beyer. Johanna. Residency Octree: A Hybrid Approach for Scalable Web-Based Multi-Volume Rendering. IEEE Transaction on Visualization and Computer Graphics, 2023. <a href="https://doi.org/10.1109/TVCG.2023.3327193" target="_blank">DOI:  <u>10.1109/TVCG.2023.3327193</u></a></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Warchol, Simon#; <b>Krueger, Robert</b>#; Nirmal, Ajit Johnson; Gaglia, Giorgio; Jessup, Jared; Ritch, Cecily C; Hoffer, John; Muhlich, Jeremy; Burger, Megan; Jacks, Tyler L; Santagata, Sandro; Sorger, Peter K; Pfister, H. Visinity: Visual Spatial Neighborhood Analysis for Multiplexed Tissue Imaging Data. IEEE Transaction and Computer Graphics, 2022. <a href="https://doi.org/10.1101/2022.05.09.490039" target="_blank">DOI:  <u>10.1101/2022.05.09.490039</u></a> --# shared first-author</div>
