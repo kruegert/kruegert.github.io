@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Dr. Robert Krueger"
   avatar           : "krueger.jpg"
-  bio              : "Postdoctoral Research Fellow at Harvard University"
-  location         : "Cambridge, MA"
+  bio              : "Assistant Professor at New York University (NYU)"
+  location         : "New York, NY"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=UHmEAooAAAAJ&hl=en&oi=sra"
-  email            : "krueger@g.harvard.edu"
+  email            : "rk4815@nyu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "robertK_vis"
+  twitter          : #"robertK_vis"
   vine             :
   weibo            :
   xing             :
