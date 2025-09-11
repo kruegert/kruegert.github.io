@@ -10,6 +10,8 @@ author_profile: true
 Journal Publications
 ------
 
+* <div style="font-size:14px;max-width:600px;text-align:justify">Keller, >Mark S; Moerth, Eric; Smits, Thomas C; Warchol, Simon; Wang, Qianwen; Krueger, Robert; Pfister, Hanspeter; Gehlenborg, Nils/ The State of Single-Cell Atlas Data Visualization in the Biological Literature. IEEE Computer Graphics and Applications, 2025. <a href="https://doi.org/10.1101%2F2023.07.21.548450" target="_blank"><a href="https://doi.org/10.1109/MCG.2025.3583979">DOI: <u>doi.org/10.1109/MCG.2025.3583979</u></a></div>
+
 * <div style="font-size:14px;max-width:600px;text-align:justify">Moerth, Eric; Sidak, Kevin; Maliga, Zoltan ; Moeller, Torsten; Gehlenborg, Nils; Sorger, Peter; Pfister, Hanspeter; Beyer, Johanna; Krueger,  Robert. Cell2Cell: Explorative Cell Interaction Analysis in Multi-Volumetric Tissue Data. Transaction on Visualization and Computer Graphics, 2024. <a href="https://doi.org/10.1101%2F2023.07.21.548450" target="_blank"><a href="https://doi.org/10.1109/TVCG.2024.3456406">DOI: <u>doi.org/10.1109/TVCG.2024.3456406</u></a></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Warchol, Simon: Troidl, Jakob; Muhlich, Jeremy L; <b>Krueger, Robert</b>; Hoffer, John; Lin, Tica; Beyer, Johanna; Glassman, Elena; Sorger, Peter Karl; Pfister, Hanspeter. psudo: Exploring Multi-Channel Biomedical Image Data with Spatially and Perceptually Optimized Pseudocoloring. Computer Graphics Forum, 2024. <a href="https://doi.org/10.1101%2F2023.07.21.548450" target="_blank"><a href="https://doi.org/10.1111/cgf.15103">DOI: <u>doi.org/10.1111/cgf.15103</u></a></div>
