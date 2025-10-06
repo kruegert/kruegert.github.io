@@ -14,6 +14,9 @@ redirect_from:
 Latest News
 ======
 
+<span style="color:grey">May 2024</span><br/>
+<span style="font-size: 14px">We publised several new papers, including [Cell2Cell, an aproach for cell interaciton analysis in multi-volume imaging data](https://ieeexplore.ieee.org/document/10672552), and a state of the art report on [Single-Cell Atlas Data Visualization in the Biological Literature](https://ieeexplore.ieee.org/abstract/document/11054287).</span>
+
 <span style="color:grey">September 2023</span><br/>
 <span style="font-size: 14px">Our new approach [Residency Octree: A Hybrid Approach for Scalable Web-Based Multi-Volume Rendering](https://arxiv.org/pdf/2309.04393.pdf) aids biomedical experts in visually exploring and analyzing large and multiplexed 3D tissue data in the web. It will be published on IEEE Explore and presented at IEEE VIS 2023 in Melbourne.</span>
 
