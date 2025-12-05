@@ -92,6 +92,8 @@ Conference Publications
 Workshop Publications
 ------
 
+* <div style="font-size:14px;max-width:600px;text-align:justify">Kalsi, Chahat ; Shen, Yuancheng ; Gaupp, Sophia ; Reichmann, Luca ; Rogava, Meri ; Krone, Michael  ; Boorboor, Saeed ; Krüger, Robert: BioSET – Biomarker-based Spatial co-Expression analysis in Tumor environments. Workshop Bio+MedVis Challenge @ IEEE VIS 2025, <a href="https://chahat08.github.io/assets/papers/bioset/BioSET.pdf" target="_blank"><u>link</u></a></div>
+
 * <div style="font-size:14px;max-width:600px;text-align:justify">Herr, Dominik ; Reinhardt, Jan ; <b>Krüger, Robert</b> ; Reina, Guido ; Ertl, Thomas: Immersive Visual Analytics for Modular Factory Layout Planning. In: IEEE Workshop on Immersive Analytics, Workshop on Immersive Analytics : IEEE, 2017, <a href="http://www.aviz.fr/~bbach/immersive2017/papers/IA_2278-paper.pdf" target="_blank"><u>link</u></a></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Lischke, Lars ; Hoffmann, Jan ; <b>Krüger, Robert</b> ; Bader, Patrick ; Woźniak, Paweł W. ; Schmidt, Albrecht: Towards Interaction Techniques for Social Media Data Exploration on Large High-Resolution Displays. In: ACM: Proceedings of the 2017 Conference on Human Factors in Computing Systems (CHI EA’17), ACM 2017. — Rezensiertes Poster, <a href="http://doi.acm.org/10.1145/3027063.3053229" target="_blank">DOI: <u>10.1145/3027063.3053229</u></a></div>
