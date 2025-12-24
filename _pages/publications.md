@@ -22,7 +22,7 @@ Journal Publications
      <div class="column-image"><img class="pub_image" src="../images/estrogen.png" alt="EstrogenReceptor"></div>
      <div class="column-text">
           <div><b>An estrogen receptor signaling transcriptional program linked to immune evasion in human hormone receptor-positive breast cancer. bioarchiv (preprint), 2025.</b></div>
-          <div>Simada, Kenichi; Michaud, Daniel E; Cui, Yvonne Xiaoyong; Zheng, Kelly; Goldberg, Jonathan; Ju, Zhenlin; Schnitt, Stuart J; Pastorello, Ricardo ; Kania, Lukas D; Hoffer, John ; Muhlich, Jeremy L; Hyun, Nhan; <b>Krueger, Robert</b>; ...; Sorger, Peter K; Agudo, Judith; Mittendorf, Elizabeth A; Guerriero, Jennifer L.</div>
+          <div>Simada, Kenichi; Michaud, Daniel E; Cui, Yvonne Xiaoyong; Zheng, Kelly; Goldberg, Jonathan; Ju, Zhenlin; Schnitt, Stuart J; Pastorello, Ricardo ; Kania, Lukas D; Hoffer, John ; Muhlich, Jeremy L; Hyun, Nhan; <b>Krueger, Robert</b>; ..; Sorger, Peter K; Agudo, Judith; Mittendorf, Elizabeth A; Guerriero, Jennifer L.</div>
           <div><a href="https://doi.org/10.1101/2024.11.23.619172" target="_blank">DOI: <u>10.1101/2024.11.23.619172</u></a></div>
           </div></div>
 
