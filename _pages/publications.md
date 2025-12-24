@@ -10,7 +10,7 @@ author_profile: true
 Journal Publications
 ------
 
-<div style="display:flex;font-size:14px;max-width:600px">
+<div style="display:flex;font-size:14px;max-width:700px">
     <div style="width:600px;padding-right:25px;"><img src="../images/embryoProfiler.png" alt="EmbryProfiler" style="max-width: 100%"></div>
     <div style="flex-grow:1;text-align:justify">Knittel, Johannes; Warchol, Simon; Troidl, Jakob; Brumar, Camelia D.; Yu Yang, Helen; Mörth, Eric; <b>Krüger, Robert</b>; Needleman, Daniel; Ben-Yosef, Dalit; Pfister, Hanspeter. EmbryoProfiler: A Visual Clinical Decision Support System for IVF. IEEE Transaction on Visualization and Computer Graphics 2025. <a href="https://doi.org/10.1109/TVCG.2025.3634780" target="_blank"><u>DOI: 10.1109/TVCG.2025.3634780</u></a></div></div>
 
