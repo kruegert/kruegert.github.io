@@ -26,7 +26,7 @@ Journal Publications
     <div class="pub_img"><img src="../images/star.png" alt="State of the Art"></div>
     <div class="pub_txt">Keller, Mark S; Moerth, Eric; Smits, Thomas C; Warchol, Simon; Wang, Qianwen; <b>Krueger, Robert</b>; Pfister, Hanspeter; Gehlenborg, Nils. The State of Single-Cell Atlas Data Visualization in the Biological Literature. IEEE Computer Graphics and Applications, 2025. <a href="https://doi.org/10.1109/MCG.2025.3583979" target="_blank">DOI: <u>10.1109/MCG.2025.3583979</u></a></div></div>
 
-    <br\>
+<p>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Knittel, Johannes; Warchol, Simon; Troidl, Jakob; Brumar, Camelia D.; Yu Yang, Helen; Mörth, Eric; <b>Krüger, Robert</b>; Needleman, Daniel; Ben-Yosef, Dalit; Pfister, Hanspeter. EmbryoProfiler: A Visual Clinical Decision Support System for IVF. IEEE Transaction on Visualization and Computer Graphics 2025. <a href="https://doi.org/10.1109/TVCG.2025.3634780" target="_blank"><u>DOI: 10.1109/TVCG.2025.3634780</u></a></div>
 
