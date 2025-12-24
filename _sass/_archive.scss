@@ -45,6 +45,7 @@
   display: flex;
   flex-wrap: wrap; /* Allows stacking when width is insufficient */
   gap: 20px;       /* Adds space between image and text */
+  margin-bottom:20px;
 }
 
 .column-image {
