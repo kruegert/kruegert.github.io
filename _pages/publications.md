@@ -34,17 +34,32 @@ Journal Publications
           <div><a href="https://doi.org/10.1002/1878-0261.13783" target="_blank">DOI: <u>10.1002/1878-0261.13783</u></a></div>
           </div></div>
 
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/star.png" alt="State of the Art"></div>
+     <div class="column-text">
+          <div><b>The State of Single-Cell Atlas Data Visualization in the Biological Literature. IEEE Computer Graphics and Applications, 2025.</b></div>
+          <div>Keller, Mark S; Moerth, Eric; Smits, Thomas C; Warchol, Simon; Wang, Qianwen; <b>Krueger, Robert</b>; Pfister, Hanspeter; Gehlenborg, Nils.</div>
+          <div><a href="https://doi.org/10.1109/MCG.2025.3583979" target="_blank">DOI: <u>10.1109/MCG.2025.3583979</u></a></div>
+          </div></div>
 
-<div class="publication" style="clear:both">
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/cell2cell.png" alt="Cell2Cell"></div>
+     <div class="column-text">
+          <div><b>Cell2Cell: Explorative Cell Interaction Analysis in Multi-Volumetric Tissue Data. Transaction on Visualization and Computer Graphics, 2024.</b></div>
+          <div>Moerth, Eric; Sidak, Kevin; Maliga, Zoltan ; Moeller, Torsten; Gehlenborg, Nils; Sorger, Peter; Pfister, Hanspeter; Beyer, Johanna; <b>Krueger, Robert</b>.</div>
+          <div><a href="https://doi.org/10.1109/TVCG.2024.3456406" target="_blank">DOI: <u>10.1109/TVCG.2024.3456406</u></a></div>
+          </div></div>
+
+
+<!-- <div class="publication" style="clear:both">
     <div class="pub_img"><img src="../images/star.png" alt="State of the Art"></div>
-    <div class="pub_txt">Keller, Mark S; Moerth, Eric; Smits, Thomas C; Warchol, Simon; Wang, Qianwen; <b>Krueger, Robert</b>; Pfister, Hanspeter; Gehlenborg, Nils. The State of Single-Cell Atlas Data Visualization in the Biological Literature. IEEE Computer Graphics and Applications, 2025. <a href="https://doi.org/10.1109/MCG.2025.3583979" target="_blank">DOI: <u>10.1109/MCG.2025.3583979</u></a></div></div>
+    <div class="pub_txt">Keller, Mark S; Moerth, Eric; Smits, Thomas C; Warchol, Simon; Wang, Qianwen; <b>Krueger, Robert</b>; Pfister, Hanspeter; Gehlenborg, Nils. The State of Single-Cell Atlas Data Visualization in the Biological Literature. IEEE Computer Graphics and Applications, 2025. <a href="https://doi.org/10.1109/MCG.2025.3583979" target="_blank">DOI: <u>10.1109/MCG.2025.3583979</u></a></div></div> -->
 
-<div class="publication" style="clear:both">
+<!-- <div class="publication" style="clear:both">
     <div class="pub_img"><img src="../images/cell2cell.png" alt="Cell2Cell"></div>
     <div class="pub_txt">Moerth, Eric; Sidak, Kevin; Maliga, Zoltan ; Moeller, Torsten; Gehlenborg, Nils; Sorger, Peter; Pfister, Hanspeter; Beyer, Johanna; <b>Krueger, Robert</b>. Cell2Cell: Explorative Cell Interaction Analysis in Multi-Volumetric Tissue Data. Transaction on Visualization and Computer Graphics, 2024. <a href="https://doi.org/10.1109/TVCG.2024.3456406" target="_blank">DOI: <u>10.1109/TVCG.2024.3456406</u></a></div></div>
+ -->
 
-<p></p>
-<p></p>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Knittel, Johannes; Warchol, Simon; Troidl, Jakob; Brumar, Camelia D.; Yu Yang, Helen; Mörth, Eric; <b>Krüger, Robert</b>; Needleman, Daniel; Ben-Yosef, Dalit; Pfister, Hanspeter. EmbryoProfiler: A Visual Clinical Decision Support System for IVF. IEEE Transaction on Visualization and Computer Graphics 2025. <a href="https://doi.org/10.1109/TVCG.2025.3634780" target="_blank"><u>DOI: 10.1109/TVCG.2025.3634780</u></a></div>
 
