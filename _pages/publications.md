@@ -10,6 +10,11 @@ author_profile: true
 Journal Publications
 ------
 
+* <div style="display:flex">
+    <div style="width:200px">Picture here</div>
+    <div style="flex-grow:1">Knittel, Johannes; Warchol, Simon; Troidl, Jakob; Brumar, Camelia D.; Yu Yang, Helen; Mörth, Eric; <b>Krüger, Robert</b>; Needleman, Daniel; Ben-Yosef, Dalit; Pfister, Hanspeter. EmbryoProfiler: A Visual Clinical Decision Support System for IVF. IEEE Transaction on Visualization and Computer Graphics 2025. <a href="10.1109/TVCG.2025.3634780" target="_blank"><u>DOI: 10.1109/TVCG.2025.3634780</u></a></div>
+</div>
+
 * <div style="font-size:14px;max-width:600px;text-align:justify">Knittel, Johannes; Warchol, Simon; Troidl, Jakob; Brumar, Camelia D.; Yu Yang, Helen; Mörth, Eric; <b>Krüger, Robert</b>; Needleman, Daniel; Ben-Yosef, Dalit; Pfister, Hanspeter. EmbryoProfiler: A Visual Clinical Decision Support System for IVF. IEEE Transaction on Visualization and Computer Graphics 2025. <a href="10.1109/TVCG.2025.3634780" target="_blank"><u>DOI: 10.1109/TVCG.2025.3634780</u></a></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Simada, Kenichi; Michaud, Daniel E; Cui, Yvonne Xiaoyong; Zheng, Kelly; Goldberg, Jonathan; Ju, Zhenlin; Schnitt, Stuart J; Pastorello, Ricardo ; Kania, Lukas D; Hoffer, John ; Muhlich, Jeremy L; Hyun, Nhan; <b>Krueger, Robert</b>; Gottlieb, Alexander; Nelson, Adam; Wanderley, Carlos W; Antonellis, Gabriella; McAllister, Sandra S; Tolaney, Sara M; Waks, Adrienne G; Jeselsohn, Rinath; Sorger, Peter K; Agudo, Judith; Mittendorf, Elizabeth A; Guerriero, Jennifer L. An estrogen receptor signaling transcriptional program linked to immune evasion in human hormone receptor-positive breast cancer. bioarchiv (preprint), 2025. <a href="https://doi.org/10.1101/2024.11.23.619172" target="_blank">DOI: <u>10.1101/2024.11.23.619172</u></a></div>
