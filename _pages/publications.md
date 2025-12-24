@@ -26,9 +26,14 @@ Journal Publications
           <div><a href="https://doi.org/10.1101/2024.11.23.619172" target="_blank">DOI: <u>10.1101/2024.11.23.619172</u></a></div>
           </div></div>
 
-<div class="publication" style="clear:both">
-    <div class="pub_img"><img src="../images/addressing.png" alt="Persistent Challenges"></div>
-    <div class="pub_txt">Prabhakaran, Sandhya; Yapp, Clarence; Baker, Gregory J; Beyer, Johanna; Hwan Chang, Young;  Creason, Allison L; <b>Krueger,  Robert</b>; Muhlich, Jeremy; Patterson, Nathan Heath; Sidak, Kevin; Sudar, Damir; Taylor, Adam J; Ternes, Luke; Troidl, Jakob; Xie, Yubin ; Sokolov, Artem; Tyson, Darren R. Addressing Persistent Challenges in Digital Image Analysis of Cancerous Tissues. Molecular Oncology, 2025. <a href="https://doi.org/10.1002/1878-0261.13783" target="_blank">DOI: <u>10.1002/1878-0261.13783</u></a></div></div>
+          <div class="pub_container">
+     <div class="column-image"><img class="pub_image" <img src="../images/addressing.png" alt="Persistent Challenges"></div>
+     <div class="column-text">
+          <div><b>Addressing Persistent Challenges in Digital Image Analysis of Cancerous Tissues. Molecular Oncology, 2025.</b></div>
+          <div>Prabhakaran, Sandhya; Yapp, Clarence; Baker, Gregory J; Beyer, Johanna; Hwan Chang, Young;  Creason, Allison L; <b>Krueger,  Robert</b>; Muhlich, Jeremy; Patterson, Nathan Heath; Sidak, Kevin; Sudar, Damir; Taylor, Adam J; Ternes, Luke; Troidl, Jakob; Xie, Yubin ; Sokolov, Artem; Tyson, Darren R.</div>
+          <div><a href="https://doi.org/10.1002/1878-0261.13783" target="_blank">DOI: <u>10.1002/1878-0261.13783</u></a></div>
+          </div></div>
+
 
 <div class="publication" style="clear:both">
     <div class="pub_img"><img src="../images/star.png" alt="State of the Art"></div>
