@@ -15,13 +15,18 @@ Journal Publications
         <img class="pub_image" src="../images/embryoProfiler.png" alt="EmbryProfiler">
     </div>
     <div class="column-text">
-         Knittel, Johannes; Warchol, Simon; Troidl, Jakob; Brumar, Camelia D.; Yu Yang, Helen; Mörth, Eric; <b>Krüger, Robert</b>; Needleman, Daniel; Ben-Yosef, Dalit; Pfister, Hanspeter. EmbryoProfiler: A Visual Clinical Decision Support System for IVF. IEEE Transaction on Visualization and Computer Graphics 2025. <a href="https://doi.org/10.1109/TVCG.2025.3634780" target="_blank"><u>DOI: 10.1109/TVCG.2025.3634780</u></a>
+     Knittel, Johannes; Warchol, Simon; Troidl, Jakob; Brumar, Camelia D.; Yu Yang, Helen; Mörth, Eric; <b>Krüger, Robert</b>; Needleman, Daniel; Ben-Yosef, Dalit; Pfister, Hanspeter. EmbryoProfiler: A Visual Clinical Decision Support System for IVF. IEEE Transaction on Visualization and Computer Graphics 2025. <a href="https://doi.org/10.1109/TVCG.2025.3634780" target="_blank"><u>DOI: 10.1109/TVCG.2025.3634780</u></a>
     </div>
 </div>
 
-<div class="publication" style="clear:both">
-    <div class="pub_img"><img src="../images/embryoProfiler.png" alt="EmbryProfiler"></div>
-    <div class="pub_txt">Knittel, Johannes; Warchol, Simon; Troidl, Jakob; Brumar, Camelia D.; Yu Yang, Helen; Mörth, Eric; <b>Krüger, Robert</b>; Needleman, Daniel; Ben-Yosef, Dalit; Pfister, Hanspeter. EmbryoProfiler: A Visual Clinical Decision Support System for IVF. IEEE Transaction on Visualization and Computer Graphics 2025. <a href="https://doi.org/10.1109/TVCG.2025.3634780" target="_blank"><u>DOI: 10.1109/TVCG.2025.3634780</u></a></div></div>
+<div class="pub_container">
+     <div class="column-image">
+        <img class="pub_image" src="../images/estrogen.png" alt="EstrogenReceptor">
+    </div>
+    <div class="column-text">
+     Simada, Kenichi; Michaud, Daniel E; Cui, Yvonne Xiaoyong; Zheng, Kelly; Goldberg, Jonathan; Ju, Zhenlin; Schnitt, Stuart J; Pastorello, Ricardo ; Kania, Lukas D; Hoffer, John ; Muhlich, Jeremy L; Hyun, Nhan; <b>Krueger, Robert</b>; ...; Sorger, Peter K; Agudo, Judith; Mittendorf, Elizabeth A; Guerriero, Jennifer L. An estrogen receptor signaling transcriptional program linked to immune evasion in human hormone receptor-positive breast cancer. bioarchiv (preprint), 2025. <a href="https://doi.org/10.1101/2024.11.23.619172" target="_blank">DOI: <u>10.1101/2024.11.23.619172</u></a>
+    </div>
+</div>
 
 <div class="publication" style="clear:both">
     <div class="pub_img"><img src="../images/estrogen.png" alt="EstrogenReceptor"></div>
