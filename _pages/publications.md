@@ -26,7 +26,7 @@ Journal Publications
           <div><a href="https://doi.org/10.1101/2024.11.23.619172" target="_blank">DOI: <u>10.1101/2024.11.23.619172</u></a></div>
           </div></div>
 
-          <div class="pub_container">
+<div class="pub_container">
      <div class="column-image"><img class="pub_image" <img src="../images/addressing.png" alt="Persistent Challenges"></div>
      <div class="column-text">
           <div><b>Addressing Persistent Challenges in Digital Image Analysis of Cancerous Tissues. Molecular Oncology, 2025.</b></div>
