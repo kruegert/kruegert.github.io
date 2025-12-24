@@ -12,8 +12,7 @@ Journal Publications
 
 * <div style="display:flex;font-size:14px;max-width:600px;text-align:justify">
     <div style="width:200px">Picture here</div>
-    <div style="flex-grow:1">Knittel, Johannes; Warchol, Simon; Troidl, Jakob; Brumar, Camelia D.; Yu Yang, Helen; Mörth, Eric; <b>Krüger, Robert</b>; Needleman, Daniel; Ben-Yosef, Dalit; Pfister, Hanspeter. EmbryoProfiler: A Visual Clinical Decision Support System for IVF. IEEE Transaction on Visualization and Computer Graphics 2025. <a href="10.1109/TVCG.2025.3634780" target="_blank"><u>DOI: 10.1109/TVCG.2025.3634780</u></a></div>
-</div>
+    <div style="flex-grow:1">Knittel, Johannes; Warchol, Simon; Troidl, Jakob; Brumar, Camelia D.; Yu Yang, Helen; Mörth, Eric; <b>Krüger, Robert</b>; Needleman, Daniel; Ben-Yosef, Dalit; Pfister, Hanspeter. EmbryoProfiler: A Visual Clinical Decision Support System for IVF. IEEE Transaction on Visualization and Computer Graphics 2025. <a href="10.1109/TVCG.2025.3634780" target="_blank"><u>DOI: 10.1109/TVCG.2025.3634780</u></a></div></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Knittel, Johannes; Warchol, Simon; Troidl, Jakob; Brumar, Camelia D.; Yu Yang, Helen; Mörth, Eric; <b>Krüger, Robert</b>; Needleman, Daniel; Ben-Yosef, Dalit; Pfister, Hanspeter. EmbryoProfiler: A Visual Clinical Decision Support System for IVF. IEEE Transaction on Visualization and Computer Graphics 2025. <a href="10.1109/TVCG.2025.3634780" target="_blank"><u>DOI: 10.1109/TVCG.2025.3634780</u></a></div>
 
