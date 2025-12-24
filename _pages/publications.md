@@ -51,6 +51,150 @@ Journal Publications
           </div></div>
 
 
+<!-- psudo -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/psudo.png" alt="psudo"></div>
+     <div class="column-text">
+          <div><b>psudo: Exploring Multi-Channel Biomedical Image Data with Spatially and Perceptually Optimized Pseudocoloring. Computer Graphics Forum 2024.</b></div>
+          <div>Warchol, Simon; Troidl, Jakob; Muhlich, Jeremy L.; <b>Krueger, Robert</b>; Hoffer, John; Lin, Tica; Beyer, Johanna; Glassman, Elena; Sorger, Peter Karl; Pfister, Hanspeter.</div>
+          <div><a href="https://doi.org/10.1111/cgf.15103" target="_blank"><u>DOI: 10.1111/cgf.15103</u></a></div>
+     </div>
+</div>
+
+<!-- Residency Octree -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/residency_octree.png" alt="Residency Octree"></div>
+     <div class="column-text">
+          <div><b>Residency Octree: A Hybrid Approach for Scalable Web-Based Multi-Volume Rendering. IEEE Transaction on Visualization and Computer Graphics 2023.</b></div>
+          <div>Herzberger, Lukas; Hadwiger, Markus; <b>Krüger, Robert</b>; Sorger, Peter; Pfister, Hanspeter; Gröller, Eduard; Beyer, Johanna.</div>
+          <div><a href="https://doi.org/10.1109/TVCG.2023.3327193" target="_blank"><u>DOI: 10.1109/TVCG.2023.3327193</u></a></div>
+     </div>
+</div>
+
+<!-- Visinity -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/visinity.png" alt="Visinity"></div>
+     <div class="column-text">
+          <div><b>Visinity: Visual Spatial Neighborhood Analysis for Multiplexed Tissue Imaging Data. IEEE Transaction on Visualization and Computer Graphics 2023.</b></div>
+          <div>Warchol, Simon*; <b>Krueger, Robert*</b>; Nirmal, Ajit Johnson; Gaglia, Giorgio; Jessup, Jared; Ritch, Cecily C.; Hoffer, John; Muhlich, Jeremy; Burger, Megan; Jacks, Tyler L.; Santagata, Sandro; Sorger, Peter K.; Pfister, Hanspeter. (* shared first-author)</div>
+          <div><a href="doi.org" target="_blank"><u>DOI: 10.1109/TVCG.2022.3209355</u></a></div>
+     </div>
+</div>
+
+<!-- Lymphocyte Networks -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/lymphonets.png" alt="Lymphocyte Networks"></div>
+     <div class="column-text">
+          <div><b>Lymphocyte networks are dynamic cellular communities in the immunoregulatory landscape of lung adenocarcinoma. Cancer Cell 2023.</b></div>
+          <div>Gaglia, Giorgio; Burger, Megan L.; Ritch, Cecily C.; Rammos, Danae; Yang, Dai; Crossland, Grace E.; Tavana, Sara Z.; Warchol, Simon; Jaeger, Alex M.; Naranjo, Santiago; Coy, Shannon; Nirmal, Ajit J.; <b>Krueger, Robert</b>; Lin, Jia-Ren; Pfister, Hanspeter; Sorger, Peter K.; Jacks, Tyler; Santagata, Sandro.</div>
+          <div><a href="doi.org" target="_blank"><u>DOI: 10.1016/j.ccell.2023.03.015</u></a></div>
+     </div>
+</div>
+
+<!-- MITI -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/miti.png" alt="MITI"></div>
+     <div class="column-text">
+          <div><b>MITI Minimum Information Guidelines for Highly Multiplexed Tissue Images. Nature Methods 2022.</b></div>
+          <div>Schapiro, Dennis; Yapp, Clarence; Sokolov, Artem; Reynolds, S.M.; Chen, Yu-An; Sudar, Damir; et al.</div>
+          <div><a href="https://doi.org/10.1038/s41592-022-01415-4" target="_blank"><u>DOI: 10.1038/s41592-022-01415-4</u></a></div>
+     </div>
+</div>
+
+<!-- CHI Multivariate Matrix -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/multivariate_matrix.png" alt="Multivariate Matrix Visualizations"></div>
+     <div class="column-text">
+          <div><b>The Pattern is in the Details: An Evaluation of Interaction Techniques for Locating, Searching, and Contextualizing Details in Multivariate Matrix Visualizations. CHI Conference on Human Factors in Computing Systems 2022.</b></div>
+          <div>Yang, Yalong; Xia, Wenyu; Lekschas, Fritz; Nobre, Caroline; <b>Krueger, Robert</b>; Pfister, Hanspeter.</div>
+          <div><a href="doi.org" target="_blank"><u>DOI: 10.1145/3491102.3517673</u></a></div>
+     </div>
+</div>
+
+<!-- Narrative Guides / Nature BME -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/narrative_guides.png" alt="Narrative Guides"></div>
+     <div class="column-text">
+          <div><b>Narrative online guides for the interpretation of digital-pathology images and tissue-atlas data. Nature Biomedical Engineering 2022.</b></div>
+          <div>Rashid, Rumana; Chen, Yu-An; Hoffer, John; Muhlich, Jeremy; Lin, Jia-Ren; <b>Krueger, Robert</b>; Pfister, Hanspeter; Mitchell, Richard; Santagata, Sandro; Sorger, Peter K.</div>
+          <div><a href="https://doi.org/10.1038/s41551-021-00789-8" target="_blank"><u>DOI: 10.1038/s41551-021-00789-8</u></a></div>
+     </div>
+</div>
+
+<!-- GenNI -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/genni.png" alt="GenNI"></div>
+     <div class="column-text">
+          <div><b>GenNI: Human-AI Collaboration for Data-Backed Text Generation. IEEE Transaction on Visualization and Computer Graphics 2021.</b></div>
+          <div>Strobelt, Hendrik; Jambay, Kinley; <b>Krueger, Robert</b>; Beyer, Johanna; Pfister, Hanspeter; Rush, Alexander M.</div>
+          <div><a href="https://doi.org/10.1109/TVCG.2021.3114845" target="_blank"><u>DOI: 10.1109/TVCG.2021.3114845</u></a></div>
+     </div>
+</div>
+
+<!-- Scope2Screen -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/scope2screen.png" alt="Scope2Screen"></div>
+     <div class="column-text">
+          <div><b>Scope2Screen: Focus+Context Techniques for Pathology Tumor Assessment in Multivariate Image Data. IEEE Transaction on Visualization and Computer Graphics 2021.</b></div>
+          <div>Jessup, Jared*; <b>Krueger, Robert*</b>; Warchol, Simon; Hoffer, John; Muhlich, Jeremy; Ritch, Cecily C.; Gaglia, Giorgio; Coy, Shannon; Chen, Yu-An; Lin, Jia-Ren; Santagata, Sandro; Sorger, Peter K.; Pfister, Hanspeter. (* shared first-author)</div>
+          <div><a href="https://doi.org/10.1109/TVCG.2021.3114786" target="_blank"><u>DOI: 10.1109/TVCG.2021.3114786</u></a></div>
+     </div>
+</div>
+
+<!-- HTAN Cell -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/htan_cell.png" alt="HTAN Cell"></div>
+     <div class="column-text">
+          <div><b>The Human Tumor Atlas Network: charting tumor transitions across space and time at single-cell resolution. Cell 2020.</b></div>
+          <div>Rozenblatt-Rosen, Orit; et al.</div>
+          <div><a href="https://doi.org/10.1016/j.cell.2020.03.053" target="_blank"><u>DOI: 10.1016/j.cell.2020.03.053</u></a></div>
+     </div>
+</div>
+
+<!-- Minerva JOSS -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/minerva.png" alt="Minerva"></div>
+     <div class="column-text">
+          <div><b>Minerva: a light-weight, narrative image browser for multiplexed tissue images. Journal of Open Source Software 2020.</b></div>
+          <div>Hoffer, John; Rashid, Rumana; Muhlich, Jeremy L.; Chen, Yu-An; Russell, Douglas Peter William; Ruokonen, Juha; <b>Krueger, Robert</b>; Pfister, Hanspeter; Santagata, Sandro; Sorger, Peter K.</div>
+          <div><a href="https://doi.org/10.21105/joss.02579" target="_blank"><u>DOI: 10.21105/joss.02579</u></a></div>
+     </div>
+</div>
+
+<!-- Visual Interaction / TVCG -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/visual_interaction.png" alt="Visual Interaction"></div>
+     <div class="column-text">
+          <div><b>Visual Interaction with Deep Learning Models through Collaborative Semantic Inference. IEEE Transaction on Visualization and Computer Graphics 2020.</b></div>
+          <div>Gehrmann, Sebastian; Strobelt, Hendrik; <b>Krüger, Robert</b>; Pfister, Hanspeter; Rush, Alexander M.</div>
+          <div><a href="doi.org" target="_blank"><u>DOI: 10.1109/TVCG.2019.2934595</u></a></div>
+     </div>
+</div>
+
+<!-- Facetto / TVCG -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/facetto.png" alt="Facetto"></div>
+     <div class="column-text">
+          <div><b>Facetto: Combining Unsupervised and Supervised Learning for Hierarchical Phenotype Analysis in Multi-Channel Image Data. IEEE Transaction on Visualization and Computer Graphics 2020.</b></div>
+          <div><b>Krüger, Robert</b>; Beyer, Johanna; Jang, Won-Dong; Kim, Nam Wook; Sokolov, Artem; Sorger, Peter K.; Pfister, Hanspeter.</div>
+          <div><a href="doi.org" target="_blank"><u>DOI: 10.1109/TVCG.2019.2934547</u></a></div>
+     </div>
+</div>
+
+<!-- Bird's-Eye / CGF -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/birdseye.png" alt="Bird's-Eye"></div>
+     <div class="column-text">
+          <div><b>Bird’s-Eye - Large-Scale Visual Analytics of City Dynamics using Social Location Data. Computer Graphics Forum 2019.</b></div>
+          <div><b>Krüger, Robert</b>; Qi, Han; Ivanov, Nikolay; Mahtal, Sanae; Thom, Dennis; Pfister, Hanspeter; Ertl, Thomas.</div>
+          <div><a href="https://doi.org/10.1111/cgf.13713" target="_blank"><u>DOI: 10.1111/cgf.13713</u></a></div>
+     </div>
+</div>
+
+
+
+
+
 <!-- <div class="publication" style="clear:both">
     <div class="pub_img"><img src="../images/star.png" alt="State of the Art"></div>
     <div class="pub_txt">Keller, Mark S; Moerth, Eric; Smits, Thomas C; Warchol, Simon; Wang, Qianwen; <b>Krueger, Robert</b>; Pfister, Hanspeter; Gehlenborg, Nils. The State of Single-Cell Atlas Data Visualization in the Biological Literature. IEEE Computer Graphics and Applications, 2025. <a href="https://doi.org/10.1109/MCG.2025.3583979" target="_blank">DOI: <u>10.1109/MCG.2025.3583979</u></a></div></div> -->
