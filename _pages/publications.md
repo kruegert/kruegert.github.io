@@ -27,10 +27,6 @@ Journal Publications
           </div></div>
 
 <div class="publication" style="clear:both">
-    <div class="pub_img"><img src="../images/estrogen.png" alt="EstrogenReceptor"></div>
-    <div class="pub_txt">Simada, Kenichi; Michaud, Daniel E; Cui, Yvonne Xiaoyong; Zheng, Kelly; Goldberg, Jonathan; Ju, Zhenlin; Schnitt, Stuart J; Pastorello, Ricardo ; Kania, Lukas D; Hoffer, John ; Muhlich, Jeremy L; Hyun, Nhan; <b>Krueger, Robert</b>; ...; Sorger, Peter K; Agudo, Judith; Mittendorf, Elizabeth A; Guerriero, Jennifer L. An estrogen receptor signaling transcriptional program linked to immune evasion in human hormone receptor-positive breast cancer. bioarchiv (preprint), 2025. <a href="https://doi.org/10.1101/2024.11.23.619172" target="_blank">DOI: <u>10.1101/2024.11.23.619172</u></a></div></div>
-
-<div class="publication" style="clear:both">
     <div class="pub_img"><img src="../images/addressing.png" alt="Persistent Challenges"></div>
     <div class="pub_txt">Prabhakaran, Sandhya; Yapp, Clarence; Baker, Gregory J; Beyer, Johanna; Hwan Chang, Young;  Creason, Allison L; <b>Krueger,  Robert</b>; Muhlich, Jeremy; Patterson, Nathan Heath; Sidak, Kevin; Sudar, Damir; Taylor, Adam J; Ternes, Luke; Troidl, Jakob; Xie, Yubin ; Sokolov, Artem; Tyson, Darren R. Addressing Persistent Challenges in Digital Image Analysis of Cancerous Tissues. Molecular Oncology, 2025. <a href="https://doi.org/10.1002/1878-0261.13783" target="_blank">DOI: <u>10.1002/1878-0261.13783</u></a></div></div>
 
