@@ -41,6 +41,7 @@
 }
 
 .pub_container {
+   max-width:600px;
   display: flex;
   flex-wrap: wrap; /* Allows stacking when width is insufficient */
   gap: 20px;       /* Adds space between image and text */
