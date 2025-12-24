@@ -14,7 +14,10 @@ redirect_from:
 Latest News
 ======
 
-<span style="color:grey">May 2024</span><br/>
+<span style="color:grey">May 2025</span><br/>
+<span style="font-size: 14px">Our team won the Award of Excellence at the [Bio+Med+Vis Challenge at IEEE VIS](http://biovis.net/2025/program_ieee/), 2025 for our work: [BioSET - Biomarker-based Spatial co-Expression analysis in Tumor environments.](http://biovis.net/2025/data/BioMedVisChallenge2025submissions/9592/final.pdf). [Supplemental Material](http://biovis.net/2025/data/BioMedVisChallenge2025submissions/9592/supp.zip)</span>
+
+<span style="color:grey">May 2025</span><br/>
 <span style="font-size: 14px">We publised several new papers in IEEE TVCG, IEEE CGA, and Molecular Oncology, including [Cell2Cell, an approach for cell interaction analysis in multi-volume imaging data](https://ieeexplore.ieee.org/document/10672552), and a state of the art report on [Single-Cell Atlas Data Visualization in the Biological Literature](https://ieeexplore.ieee.org/abstract/document/11054287).</span>
 
 <span style="color:grey">September 2023</span><br/>
