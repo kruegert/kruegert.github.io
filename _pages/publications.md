@@ -27,7 +27,7 @@ Journal Publications
           </div></div>
 
 <div class="pub_container">
-     <div class="column-image"><img class="pub_image" <img src="../images/addressing.png" alt="Persistent Challenges"></div>
+     <div class="column-image"><img class="pub_image" src="../images/addressing.png" alt="Persistent Challenges"></div>
      <div class="column-text">
           <div><b>Addressing Persistent Challenges in Digital Image Analysis of Cancerous Tissues. Molecular Oncology, 2025.</b></div>
           <div>Prabhakaran, Sandhya; Yapp, Clarence; Baker, Gregory J; Beyer, Johanna; Hwan Chang, Young;  Creason, Allison L; <b>Krueger,  Robert</b>; Muhlich, Jeremy; Patterson, Nathan Heath; Sidak, Kevin; Sudar, Damir; Taylor, Adam J; Ternes, Luke; Troidl, Jakob; Xie, Yubin ; Sokolov, Artem; Tyson, Darren R.</div>
