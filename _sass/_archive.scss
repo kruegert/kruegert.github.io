@@ -20,6 +20,24 @@
   }
 }
 
+.publication {
+   font-size:14px;
+   max-width:600px;
+}
+
+.pub_img {
+   width:100%;
+   max-width:200px;
+   float:left;
+   padding-right:25px;
+}
+
+.pub_txt {
+   text-align:justify;
+   overflow:auto;
+   display:block;
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
