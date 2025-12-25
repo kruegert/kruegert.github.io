@@ -191,19 +191,87 @@ Journal Publications
      </div>
 </div>
 
+<!-- Publication 1 -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/map_matching.png" alt="Visual Interactive Map Matching"></div>
+     <div class="column-text">
+          <div><b>Visual Interactive Map Matching. IEEE Transaction on Visualization and Computer Graphics (TVCG) 2018. (PacificVis Honorable Mention)</b></div>
+          <div><b>Krueger, Robert</b>; Simeonov, Georgi; Beck, Fabian; Ertl, Thomas.</div>
+          <div><a href="https://doi.org/10.1109/TVCG.2018.2816219" target="_blank"><u>DOI: 10.1109/TVCG.2018.2816219</u></a></div>
+     </div>
+</div>
+
+<!-- Publication 2 -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/theme_park.png" alt="Theme Park Dynamics"></div>
+     <div class="column-text">
+          <div><b>A Visual Analytics Framework for Exploring Theme Park Dynamics. ACM Transaction on Interactive Intelligent Systems 2018.</b></div>
+          <div>Steptoe, Michael; <b>Krüger, Robert</b>; Garcia, Rolando; Liang, Xing; Maciejewski, Ross.</div>
+          <div><a href="https://doi.org/10.1109/VAST.2015.7347639" target="_blank"><u>DOI: 10.1109/VAST.2015.7347639</u></a></div>
+     </div>
+</div>
+
+<!-- Publication 3 -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/twitter_lives.png" alt="Can Twitter Save Lives?"></div>
+     <div class="column-text">
+          <div><b>Can Twitter Save Lives? A Broad-scale Study on Visual Social Media Analytics for Public Safety. IEEE Transactions on Visualization and Computer Graphics (TVCG) 2016.</b></div>
+          <div>Thom, Dennis; <b>Krüger, Robert</b>; Ertl, Thomas.</div>
+          <div><a href="https://doi.org/10.1109/TVCG.2015.2511733" target="_blank"><u>DOI: 10.1109/TVCG.2015.2511733</u></a></div>
+     </div>
+</div>
+
+<!-- Publication 4 -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/movement_data.png" alt="Semantically Enriched Movement Data"></div>
+     <div class="column-text">
+          <div><b>Visual Querying of Semantically Enriched Movement Data. International Joint Conference, VISIGRAPP 2016.</b></div>
+          <div>Haag, Florian; <b>Krüger, Robert</b>; Ertl, Thomas.</div>
+          <div><a href="https://link.springer.com/chapter/10.1007/978-3-319-64870-5_12" target="_blank"><u>ISBN: 978-3-319-64870-5</u></a></div>
+     </div>
+</div>
+
+<!-- Publication 5 -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/foursquare.png" alt="Semantic Enrichment Foursquare"></div>
+     <div class="column-text">
+          <div><b>Semantic Enrichment of Movement Behavior with Foursquare – A Visual Analytics Approach. IEEE Transactions on Visualization and Computer Graphics (TVCG) 2015.</b></div>
+          <div><b>Krüger, Robert</b>; Thom, Dennis; Ertl, Thomas.</div>
+          <div><a href="https://doi.org/10.1109/TVCG.2014.2371856" target="_blank"><u>DOI: 10.1109/TVCG.2014.2371856</u></a></div>
+     </div>
+</div>
+
+<!-- Publication 6 -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/scatterblogs.png" alt="ScatterBlogs2"></div>
+     <div class="column-text">
+          <div><b>ScatterBlogs2: Real-Time Monitoring of Microblog Messages Through User-Guided Filtering. IEEE Transactions on Visualization and Computer Graphics (TVCG) 2013.</b></div>
+          <div>Bosch, Harald; Thom, Dennis; Heimerl, Florian; Püttmann, Edwin; Koch, Steffen; <b>Krüger, Robert</b>; Wörner, Michael; Ertl, Thomas.</div>
+          <div><a href="https://doi.org/10.1109/TVCG.2013.186" target="_blank"><u>DOI: 10.1109/TVCG.2013.186</u></a></div>
+     </div>
+</div>
+
+<!-- Publication 7 -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/trajectory_lenses.png" alt="TrajectoryLenses"></div>
+     <div class="column-text">
+          <div><b>TrajectoryLenses – A Set-based Filtering and Exploration Technique for Long-term Trajectory Data. Computer Graphics Forum (CGF) 2013.</b></div>
+          <div><b>Krüger, Robert</b>; Thom, Dennis; Wörner, Michael; Bosch, Harald; Ertl, Thomas.</div>
+          <div><a href="https://doi.org/10.1111/cgf.12132" target="_blank"><u>DOI: 10.1111/cgf.12132</u></a></div>
+     </div>
+</div>
 
 
 
+<!-- 
 
-<!-- <div class="publication" style="clear:both">
+<div class="publication" style="clear:both">
     <div class="pub_img"><img src="../images/star.png" alt="State of the Art"></div>
     <div class="pub_txt">Keller, Mark S; Moerth, Eric; Smits, Thomas C; Warchol, Simon; Wang, Qianwen; <b>Krueger, Robert</b>; Pfister, Hanspeter; Gehlenborg, Nils. The State of Single-Cell Atlas Data Visualization in the Biological Literature. IEEE Computer Graphics and Applications, 2025. <a href="https://doi.org/10.1109/MCG.2025.3583979" target="_blank">DOI: <u>10.1109/MCG.2025.3583979</u></a></div></div> -->
 
-<!-- <div class="publication" style="clear:both">
+<div class="publication" style="clear:both">
     <div class="pub_img"><img src="../images/cell2cell.png" alt="Cell2Cell"></div>
     <div class="pub_txt">Moerth, Eric; Sidak, Kevin; Maliga, Zoltan ; Moeller, Torsten; Gehlenborg, Nils; Sorger, Peter; Pfister, Hanspeter; Beyer, Johanna; <b>Krueger, Robert</b>. Cell2Cell: Explorative Cell Interaction Analysis in Multi-Volumetric Tissue Data. Transaction on Visualization and Computer Graphics, 2024. <a href="https://doi.org/10.1109/TVCG.2024.3456406" target="_blank">DOI: <u>10.1109/TVCG.2024.3456406</u></a></div></div>
- -->
-
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Knittel, Johannes; Warchol, Simon; Troidl, Jakob; Brumar, Camelia D.; Yu Yang, Helen; Mörth, Eric; <b>Krüger, Robert</b>; Needleman, Daniel; Ben-Yosef, Dalit; Pfister, Hanspeter. EmbryoProfiler: A Visual Clinical Decision Support System for IVF. IEEE Transaction on Visualization and Computer Graphics 2025. <a href="https://doi.org/10.1109/TVCG.2025.3634780" target="_blank"><u>DOI: 10.1109/TVCG.2025.3634780</u></a></div>
 
@@ -226,7 +294,6 @@ Journal Publications
 * <div style="font-size:14px;max-width:600px;text-align:justify">Schapiro, Dennis; Yapp, Clarence; Sokolov, Artem, Reynolds, S.M., Chen, Yu-An, Sudar, Damir, et al., 2022. MITI Minimum Information Guidelines for Highly Multiplexed Tissue Images. Nature Methods, 2022. 19(3), pp.262-267. <a href="https://doi.org/10.1038/s41592-022-01415-4" target="_blank">DOI: <u>10.1038/s41592-022-01415-4</u></a></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Yang, Yalong; Xia, Wenyu; Lekschas, Fritz; Nobre, Caroline; <b>Krueger, Robert</b>; Pfister, Hanspeter. "The Pattern is in the Details: An Evaluation of Interaction Techniques for Locating, Searching, and Contextualizing Details in Multivariate Matrix Visualizations". Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI), 2022., <a href="https://dl.acm.org/doi/10.1145/3491102.3517673" target="_blank">DOI: 10.1145/3491102.3517673</a></div>
-
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Rashid, Rumana; Chen, Yu-An; Hoffer, John; Muhlich, Jeremy; Lin, Jia-Ren; <b>Krueger, Robert</b>; Pfister, Hanspeter ; Mitchell, Richard ; Santagata, Sandro ; Sorger, Peter K. "Narrative online guides for the interpretation of digital-pathology images and tissue-atlas data.".ature Biomedical Engineering 6, no. 5 (2022): 515-526., <a href="https://doi.org/10.1038/s41551-021-00789-8" target="_blank">DOI: <u>10.1038/s41551-021-00789-8</u></a></div>
 
@@ -261,6 +328,8 @@ Journal Publications
 * <div style="font-size:14px;max-width:600px;text-align:justify">Bosch, Harald ; Thom, Dennis ; Heimerl, Florian ; Püttmann, Edwin ; Koch, Steffen ; <b>Krüger, Robert</b> ; Wörner, Michael ; Ertl, Thomas: ScatterBlogs2: Real-Time Monitoring of Microblog Messages Through User-Guided Filtering. In: IEEE Transactions on Visualization and Computer Graphics (TVCG). Bd. 19 (2013), Nr. 12, <a href="https://doi.org/10.1109/TVCG.2013.186" target="_blank">DOI: <u>10.1109/TVCG.2013.186</u></a></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify"><b>Krüger, Robert</b> ; Thom, Dennis ; Wörner, Michael ; Bosch, Harald ; Ertl, Thomas: TrajectoryLenses – A Set-based Filtering and Exploration Technique for Long-term Trajectory Data. In: Computer Graphics Forum (CGF) (proceedings of The Eurographics Conference on Visualization), Bd. 2013, Nr. 3, <a href="https://doi.org/10.1111/cgf.12132" target="_blank">DOI: <u>10.1111/cgf.12132</u></a></div>
+
+-->
 
 Conference Publications
 ------
