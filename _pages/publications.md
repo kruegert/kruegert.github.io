@@ -63,7 +63,7 @@ Journal Publications
 
 <!-- Residency Octree -->
 <div class="pub_container">
-     <div class="column-image"><img class="pub_image" src="../images/residency_octree.png" alt="Residency Octree"></div>
+     <div class="column-image"><img class="pub_image" src="../images/residencyOctree.png" alt="Residency Octree"></div>
      <div class="column-text">
           <div><b>Residency Octree: A Hybrid Approach for Scalable Web-Based Multi-Volume Rendering. IEEE Transaction on Visualization and Computer Graphics 2023.</b></div>
           <div>Herzberger, Lukas; Hadwiger, Markus; <b>Krüger, Robert</b>; Sorger, Peter; Pfister, Hanspeter; Gröller, Eduard; Beyer, Johanna.</div>
