@@ -267,7 +267,7 @@ Journal Publications
 
 <div class="publication" style="clear:both">
     <div class="pub_img"><img src="../images/star.png" alt="State of the Art"></div>
-    <div class="pub_txt">Keller, Mark S; Moerth, Eric; Smits, Thomas C; Warchol, Simon; Wang, Qianwen; <b>Krueger, Robert</b>; Pfister, Hanspeter; Gehlenborg, Nils. The State of Single-Cell Atlas Data Visualization in the Biological Literature. IEEE Computer Graphics and Applications, 2025. <a href="https://doi.org/10.1109/MCG.2025.3583979" target="_blank">DOI: <u>10.1109/MCG.2025.3583979</u></a></div></div> -->
+    <div class="pub_txt">Keller, Mark S; Moerth, Eric; Smits, Thomas C; Warchol, Simon; Wang, Qianwen; <b>Krueger, Robert</b>; Pfister, Hanspeter; Gehlenborg, Nils. The State of Single-Cell Atlas Data Visualization in the Biological Literature. IEEE Computer Graphics and Applications, 2025. <a href="https://doi.org/10.1109/MCG.2025.3583979" target="_blank">DOI: <u>10.1109/MCG.2025.3583979</u></a></div></div>
 
 <div class="publication" style="clear:both">
     <div class="pub_img"><img src="../images/cell2cell.png" alt="Cell2Cell"></div>
