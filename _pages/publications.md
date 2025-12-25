@@ -103,7 +103,7 @@ Journal Publications
 
 <!-- CHI Multivariate Matrix -->
 <div class="pub_container">
-     <div class="column-image"><img class="pub_image" src="../images/multivariate_matrix.png" alt="Multivariate Matrix Visualizations"></div>
+     <div class="column-image"><img class="pub_image" src="../images/pattern.png" alt="Multivariate Matrix Visualizations"></div>
      <div class="column-text">
           <div><b>The Pattern is in the Details: An Evaluation of Interaction Techniques for Locating, Searching, and Contextualizing Details in Multivariate Matrix Visualizations. CHI Conference on Human Factors in Computing Systems 2022.</b></div>
           <div>Yang, Yalong; Xia, Wenyu; Lekschas, Fritz; Nobre, Caroline; <b>Krueger, Robert</b>; Pfister, Hanspeter.</div>
