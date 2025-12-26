@@ -451,6 +451,128 @@ Conference Publications
 Workshop Publications
 ------
 
+<!-- BioSET 2025 -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/bioset.png" alt="BioSET"></div>
+     <div class="column-text">
+          <div><b>BioSET – Biomarker-based Spatial co-Expression analysis in Tumor environments. Workshop Bio+MedVis Challenge @ IEEE VIS 2025.</b></div>
+          <div>Kalsi, Chahat ; Shen, Yuancheng ; Gaupp, Sophia ; Reichmann, Luca ; Rogava, Meri ; Krone, Michael ; Boorboor, Saeed ; <b>Krüger, Robert</b>.</div>
+          <div><a href="https://chahat08.github.io/assets/papers/bioset/BioSET.pdf" target="_blank"><u>link</u></a></div>
+     </div>
+</div>
+
+<!-- Immersive Factory 2017 -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/factory_layout.png" alt="Factory Layout Planning"></div>
+     <div class="column-text">
+          <div><b>Immersive Visual Analytics for Modular Factory Layout Planning. IEEE Workshop on Immersive Analytics 2017.</b></div>
+          <div>Herr, Dominik ; Reinhardt, Jan ; <b>Krüger, Robert</b> ; Reina, Guido ; Ertl, Thomas.</div>
+          <div><a href="http://www.aviz.fr/~bbach/immersive2017/papers/IA_2278-paper.pdf" target="_blank"><u>link</u></a></div>
+     </div>
+</div>
+
+<!-- Social Media CHI 2017 -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/chi_poster.png" alt="Social Media Data Exploration"></div>
+     <div class="column-text">
+          <div><b>Towards Interaction Techniques for Social Media Data Exploration on Large High-Resolution Displays. ACM CHI EA 2017 (Reviewed Poster).</b></div>
+          <div>Lischke, Lars ; Hoffmann, Jan ; <b>Krüger, Robert</b> ; Bader, Patrick ; Woźniak, Paweł W. ; Schmidt, Albrecht.</div>
+          <div><a href="http://doi.acm.org/10.1145/3027063.3053229" target="_blank"><u>DOI: 10.1145/3027063.3053229</u></a></div>
+     </div>
+</div>
+
+<!-- Data Collection UbiComp 2016 -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/ubicomp_poster.png" alt="Engaging People"></div>
+     <div class="column-text">
+          <div><b>Engaging People to Participate in Data Collection. UbiComp ’16 Proceedings EA 2016 (Reviewed Poster).</b></div>
+          <div>Tobien, Patrick ; Lischke, Lars ; Hirsch, Marco ; <b>Krüger, Robert</b> ; Lukowicz, Paul ; Schmidt, Albrecht.</div>
+          <div><a href="https://doi.org/10.1145/2968219.2971420" target="_blank"><u>DOI: 10.1145/2968219.2971420</u></a></div>
+     </div>
+</div>
+
+<!-- SaccadeLenses 2016 -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/saccadelenses.png" alt="SaccadeLenses"></div>
+     <div class="column-text">
+          <div><b>SaccadeLenses: Interactive Exploratory Filtering of Eye Tracking Trajectories. IEEE Second Workshop on Eye Tracking and Visualization (ETVIS) 2016.</b></div>
+          <div><b>Krüger, Robert</b> ; Koch, Steffen ; Ertl, Thomas.</div>
+          <div><a href="https://doi.org/10.1109/ETVIS.2016.7851162" target="_blank"><u>DOI: 10.1109/ETVIS.2016.7851162</u></a></div>
+     </div>
+</div>
+
+<!-- VAST Challenge 2015 Award -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/vast2015.png" alt="VAST Challenge 2015"></div>
+     <div class="column-text">
+          <div><b>VAST Challenge 2015: Grand Challenge – Team VADER/VIS Award for Outstanding Comprehensive Submission. IEEE VAST 2015 (Award).</b></div>
+          <div>Steptoe, Michael ; <b>Krüger, Robert</b> ; Zhang, Yifan ; Liang, Xing ; Garcia, Rolando ; Kadambi, Sagarika ; Luo, Wei ; Ertl, Thomas ; Maciejewski, Ross.</div>
+          <div><a href="https://doi.org/10.1109/VAST.2015.7347639" target="_blank"><u>DOI: 10.1109/VAST.2015.7347639</u></a></div>
+     </div>
+</div>
+
+<!-- Inspector-Gadget 2015 -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/inspector_gadget.png" alt="Inspector-Gadget"></div>
+     <div class="column-text">
+          <div><b>Inspector-Gadget: Integrating Data Preprocessing and Orchestration in the Visual Analysis Loop. International Workshop on Visual Analytics EuroVA 2015.</b></div>
+          <div><b>Krüger, Robert</b> ; Herr, Dominik ; Haag, Florian ; Ertl, Thomas.</div>
+          <div><a href="http://dx.doi.org/10.2312/eurova.20151096" target="_blank"><u>DOI: 10.2312/eurova.20151096</u></a></div>
+     </div>
+</div>
+
+<!-- Racecar Tracking 2013 -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/racecar.png" alt="Racecar Tracking"></div>
+     <div class="column-text">
+          <div><b>Racecar Tracking and its Visualization Using Sparse Data. 1st IEEE VIS Workshop on Sports Data Visualization 2013.</b></div>
+          <div>Stoll, Michael ; <b>Krüger, Robert</b> ; Ertl, Thomas ; Bruhn, Andrés.</div>
+          <div>-</div>
+     </div>
+</div>
+
+<!-- Social Media ISCRAM 2013 -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/iscram_poster.png" alt="ISCRAM Poster"></div>
+     <div class="column-text">
+          <div><b>Visual Analysis of Social Media Data in Emergency Situations by Aggregating Annotated User Movements. ISCRAM 2013 (Reviewed Poster).</b></div>
+          <div>Jäckle, Dominik ; Bosch, Harald ; Thom, Dennis ; <b>Krüger, Robert</b> ; Keim, Daniel A. ; Ertl, Thomas.</div>
+          <div>-</div>
+     </div>
+</div>
+
+<!-- Prolix 2013 Award -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/prolix.png" alt="Prolix"></div>
+     <div class="column-text">
+          <div><b>Prolix – Visual Prediction Analysis for Box Office Success. IEEE Conference on Visual Analytics Science and Technology (VAST) 2013 (Honorable Mention).</b></div>
+          <div><b>Krüger, Robert</b> ; Bosch, Harald ; Thom, Dennis ; Püttmann, Edwin ; Han, Qi ; Koch, Steffen ; Heimerl, Florian ; Ertl, Thomas.</div>
+          <div><a href="https://www.researchgate.net/profile/R_Krueger/publication/260864010_Prolix-Visual_Prediction_Analysis_for_Box_Office_Success/links/575d360f08aec91374ae7a6a/Prolix-Visual-Prediction-Analysis-for-Box-Office-Success.pdf" target="_blank"><u>link</u></a></div>
+     </div>
+</div>
+
+<!-- HIVEBEAT 2012 Award -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/hivebeat.png" alt="HIVEBEAT"></div>
+     <div class="column-text">
+          <div><b>HIVEBEAT – A Highly Interactive Visualization Environment for Broad-Scale Exploratory Analysis and Tracing. IEEE Conference on Visual Analytics Science and Technology (VAST) 2012 (Honorable Mention).</b></div>
+          <div><b>Krüger, Robert</b> ; Bosch, Harald ; Koch, Steffen ; Müller, Christoph ; Reina, Guido ; Thom, Dennis ; Ertl, Thomas.</div>
+          <div><a href="https://doi.org/10.1109/VAST.2012.6400518" target="_blank"><u>DOI: 10.1109/VAST.2012.6400518</u></a></div>
+     </div>
+</div>
+
+<!-- Social Media Movement 2012 -->
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/movement_data.png" alt="Movement Data Analysis"></div>
+     <div class="column-text">
+          <div><b>Using Social Media Content in the Visual Analysis of Movement Data. 2nd Workshop on Interactive Visual Text Analytics 2012.</b></div>
+          <div><b>Krüger, Robert</b> ; Lohmann, Steffen ; Thom, Dennis ; Bosch, Harald ; Ertl, Thomas.</div>
+          <div><a href="https://pdfs.semanticscholar.org/37cd/b884f87c031ecebbb82ed2aa279a497a58b5.pdf" target="_blank"><u>link</u></a></div>
+     </div>
+</div>
+
+
+<!--
 * <div style="font-size:14px;max-width:600px;text-align:justify">Kalsi, Chahat ; Shen, Yuancheng ; Gaupp, Sophia ; Reichmann, Luca ; Rogava, Meri ; Krone, Michael  ; Boorboor, Saeed ; Krüger, Robert: BioSET – Biomarker-based Spatial co-Expression analysis in Tumor environments. Workshop Bio+MedVis Challenge @ IEEE VIS 2025, <a href="https://chahat08.github.io/assets/papers/bioset/BioSET.pdf" target="_blank"><u>link</u></a></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Herr, Dominik ; Reinhardt, Jan ; <b>Krüger, Robert</b> ; Reina, Guido ; Ertl, Thomas: Immersive Visual Analytics for Modular Factory Layout Planning. In: IEEE Workshop on Immersive Analytics, Workshop on Immersive Analytics : IEEE, 2017, <a href="http://www.aviz.fr/~bbach/immersive2017/papers/IA_2278-paper.pdf" target="_blank"><u>link</u></a></div>
@@ -474,6 +596,8 @@ Workshop Publications
 * <div style="font-size:14px;max-width:600px;text-align:justify"><b>Krüger, Robert</b> ; Bosch, Harald ; Koch, Steffen ; Müller, Christoph ; Reina, Guido ; Thom, Dennis ; Ertl, Thomas: HIVEBEAT – A Highly Interactive Visualization Environment for Broad-Scale Exploratory Analysis and Tracing. In: IEEE Conference on Visual Analytics Science and Technology (VAST), Bd. 2012 <b>(Honorable Mention)</b>, DOI: <a href="https://doi.org/10.1109/VAST.2012.6400518" target="_blank"><u>10.1109/VAST.2012.6400518</u></a></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify"><b>Krüger, Robert</b> ; Lohmann, Steffen ; Thom, Dennis ; Bosch, Harald ; Ertl, Thomas: Using Social Media Content in the Visual Analysis of Movement Data. In: 2nd Workshop on Interactive Visual Text Analytics, 2nd Workshop on Interactive Visual Text Analytics, 2012 <a href="https://pdfs.semanticscholar.org/37cd/b884f87c031ecebbb82ed2aa279a497a58b5.pdf" target="_blank"><u>link</u></a></div>
+
+-->
 
 Dissertation
 ------
