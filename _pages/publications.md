@@ -602,4 +602,20 @@ Workshop Publications
 Dissertation
 ------
 
+<!--
+
 * <div style="font-size:14px;max-width:600px;text-align:justify"><b>Krüger, Robert</b>: Visual Analytics of Human Mobility Behavior, 2017, <a href="https://elib.uni-stuttgart.de/bitstream/11682/9733/3/dissertation_krueger_robert.pdf" target="_blank"><u>link</u></a>, DOI: <a href="http://dx.doi.org/10.18419/opus-9716" target="_blank"><u>10.18419/opus-9716</u></a></div>
+
+-->
+
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/dissertation_krueger.png" alt="Visual Analytics of Human Mobility Behavior"></div>
+     <div class="column-text">
+          <div><b>Visual Analytics of Human Mobility Behavior. PhD Dissertation 2017.</b></div>
+          <div><b>Krüger, Robert</b>.</div>
+          <div>
+               <a href="https://elib.uni-stuttgart.de/bitstream/11682/9733/3/dissertation_krueger_robert.pdf" target="_blank"><u>link</u></a>, 
+               <a href="http://dx.doi.org/10.18419/opus-9716" target="_blank"><u>DOI: 10.18419/opus-9716</u></a>
+          </div>
+     </div>
+</div>
