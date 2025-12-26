@@ -563,7 +563,7 @@ Workshop Publications
 
 <!-- Social Media Movement 2012 -->
 <div class="pub_container">
-     <div class="column-image"><img class="pub_image" src="../images/movement_data.png" alt="Movement Data Analysis"></div>
+     <div class="column-image"><img class="pub_image" src="../images/using.png" alt="Movement Data Analysis"></div>
      <div class="column-text">
           <div><b>Using Social Media Content in the Visual Analysis of Movement Data. 2nd Workshop on Interactive Visual Text Analytics 2012.</b></div>
           <div><b>Krüger, Robert</b> ; Lohmann, Steffen ; Thom, Dennis ; Bosch, Harald ; Ertl, Thomas.</div>
