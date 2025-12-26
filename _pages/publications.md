@@ -334,7 +334,98 @@ Journal Publications
 Conference Publications
 ------
 
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/bigdata2018.png" alt="Visual Pattern-Driven Exploration"></div>
+     <div class="column-text">
+          <div><b>Visual Pattern-Driven Exploration of Big Data. IEEE Big Data Visual Analytics (BDVA) 2018.</b></div>
+          <div>Behrisch, Michael ; <b>Krueger, Robert</b> ; Lekschas, Fritz ; Schreck, Tobias ; Gehlenborg, Nils ; Pfister, Hanspeter.</div>
+          <div><a href="https://arxiv.org/abs/1807.01364" target="_blank"><u>arXiv preprint arXiv:1807.01364</u></a></div>
+     </div>
+</div>
 
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/factory2018.png" alt="Immersive Modular Factory"></div>
+     <div class="column-text">
+          <div><b>Immersive Modular Factory Layout Planning using Augmented Reality. CIRP-CMS 2018.</b></div>
+          <div>Herr, Dominik ; Reinhardt, Jan ; Reina, Guido; <b>Krueger, Robert</b> ; Ferrari, Rafael Villanueva ; Ertl, Thomas.</div>
+          <div><a href="https://doi.org/10.1016/j.procir.2018.03.200" target="_blank"><u>DOI: 10.1016/j.procir.2018.03.200</u></a></div>
+     </div>
+</div>
+
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/vespa20.png" alt="VESPA 2.0"></div>
+     <div class="column-text">
+          <div><b>VESPA 2.0: Data-Driven Behavior Models for Visual Analytics of Movement Sequences. IEEE International Symposium on Big Data Visual Analytics (BDVA) 2017 (Best Paper Award).</b></div>
+          <div><b>Krueger, Robert</b> ; Tremel, Tina ; Thom, Dennis.</div>
+          <div><a href="https://doi.org/10.1109/BDVA.2017.8114626" target="_blank"><u>DOI: 10.1109/BDVA.2017.8114626</u></a></div>
+     </div>
+</div>
+
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/vespa2016.png" alt="VESPa Language"></div>
+     <div class="column-text">
+          <div><b>VESPa: A Pattern-Based Visual Query Language for Event Sequences. IVAPP 2016 (Best Paper Award).</b></div>
+          <div>Haag, Florian ; <b>Krüger, Robert</b> ; Ertl, Thomas.</div>
+          <div><a href="https://doi.org/10.5220/0005716900480059" target="_blank"><u>DOI: 10.5220/0005716900480059</u></a></div>
+     </div>
+</div>
+
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/traveldiff2016.png" alt="TravelDiff"></div>
+     <div class="column-text">
+          <div><b>TravelDiff: Visual Comparison Analytics for Massive Movement Patterns Derived from Twitter. IEEE Pacific Visualization Symposium (PacificVis) 2016.</b></div>
+          <div><b>Krüger, Robert</b> ; Sun, Guodao ; Beck, Fabian ; Liang, Ronghua ; Ertl, Thomas.</div>
+          <div><a href="https://doi.org/10.1109/PACIFICVIS.2016.7465266" target="_blank"><u>DOI: 10.1109/PACIFICVIS.2016.7465266</u></a></div>
+     </div>
+</div>
+
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/geospatial2015.png" alt="Geospatial Text Streams"></div>
+     <div class="column-text">
+          <div><b>Data-Driven Exploration of Real-Time Geospatial Text Streams. Machine Learning and Knowledge Discovery in Databases: ECML PKDD 2015.</b></div>
+          <div>Bosch, Harald ; <b>Krüger, Robert</b> ; Thom, Dennis ; et al.</div>
+          <div><a href="https://doi.org/10.1007/978-3-319-23461-8_14" target="_blank"><u>DOI: 10.1007/978-3-319-23461-8_14</u></a></div>
+     </div>
+</div>
+
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/twitter2015.png" alt="Twitter Situation Awareness"></div>
+     <div class="column-text">
+          <div><b>Can Twitter really save your Life? A Case Study of Visual Social Media Analytics for Situation Awareness. IEEE Pacific Visualization Symposium (PacificVis) 2015.</b></div>
+          <div>Thom, Dennis ; <b>Krüger, Robert</b> ; Bechstedt, Ulrike ; Platz, Axel ; Zisgen, Julia ; Volland, Bernd ; Ertl, Thomas.</div>
+          <div><a href="https://doi.org/10.1109/PACIFICVIS.2015.7156376" target="_blank"><u>DOI: 10.1109/PACIFICVIS.2015.7156376</u></a></div>
+     </div>
+</div>
+
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/hicss2014.png" alt="Social Media Location Discovery"></div>
+     <div class="column-text">
+          <div><b>Using Large Scale Aggregated Knowledge for Social Media Location Discovery. Hawaii International Conference on System Sciences (HICSS-47) 2014.</b></div>
+          <div>Thom, Dennis ; Bosch, Harald ; <b>Krüger, Robert</b> ; Ertl, Thomas.</div>
+          <div><a href="https://doi.org/10.1109/HICSS.2014.189" target="_blank"><u>DOI: 10.1109/HICSS.2014.189</u></a></div>
+     </div>
+</div>
+
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/movement2014.png" alt="Visual Analysis Movement"></div>
+     <div class="column-text">
+          <div><b>Visual Analysis of Movement Behavior using Web Data for Context Enrichment. IEEE Pacific Visualization Symposium (PacificVis) 2014 (Best Paper Award).</b></div>
+          <div><b>Krüger, Robert</b> ; Thom, Dennis ; Ertl, Thomas.</div>
+          <div><a href="https://doi.org/10.1109/PacificVis.2014.57" target="_blank"><u>DOI: 10.1109/PacificVis.2014.57</u></a></div>
+     </div>
+</div>
+
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="../images/predictive2014.png" alt="Predictive Analytics"></div>
+     <div class="column-text">
+          <div><b>Integrating Predictive Analytics and Social Media. IEEE Conference on Visual Analytics Science and Technology (VAST) 2014.</b></div>
+          <div>Lu, Yafeng ; <b>Krüger, Robert</b> ; Thom, Dennis ; Wang, Feng ; Koch, Steffen ; Ertl, Thomas ; Maciejewski, Ross.</div>
+          <div><a href="http://doi.acm.org/10.1145/3162076" target="_blank"><u>DOI: 10.1145/3162076</u></a></div>
+     </div>
+</div>
+
+
+<!--
 * <div style="font-size:14px;max-width:600px;text-align:justify">Behrisch, Michael ; <b>Krueger, Robert</b> ; Lekschas, Fritz ; Schreck, Tobias ; Gehlenborg, Nils ; Pfister, Hanspeter: Visual Pattern-Driven Exploration of Big Data. In: IEEE Big Data Visual Analytics (BDVA) 2018 <a href="https://arxiv.org/abs/1807.01364" target="_blank"> <u>arXiv preprint arXiv:1807.01364</u></a></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Herr, Dominik ; Reinhardt, Jan ; Reina, Guido; <b>Krueger, Robert</b> ; Ferrari, Rafael Villanueva ; Ertl, Thomas: Immersive Modular Factory Layout Planning using Augmented Reality, In: CIRP-CMS 2018 <a href="https://doi.org/10.1016/j.procir.2018.03.200" target="_blank">DOI: <u>10.1016/j.procir.2018.03.200</u></a></div>
@@ -354,6 +445,8 @@ Conference Publications
 * <div style="font-size:14px;max-width:600px;text-align:justify"><b>Krüger, Robert</b> ; Thom, Dennis ; Ertl, Thomas: Visual Analysis of Movement Behavior using Web Data for Context Enrichment. In: IEEE Pacific Visualization Symposium (PacificVis), Bd. 7, 2014 <b>(Best Paper Award)</b>, DOI: <a href="https://doi.org/10.1109/PacificVis.2014.57" target="_blank"><u>10.1109/PacificVis.2014.57</u></a></div>
 
 * <div style="font-size:14px;max-width:600px;text-align:justify">Lu, Yafeng ; <b>Krüger, Robert</b> ; Thom, Dennis ; Wang, Feng ; Koch, Steffen ; Ertl, Thomas ; Maciejewski, Ross: Integrating Predictive Analytics and Social Media. In: IEEE Conference on Visual Analytics Science and Technology (VAST), Bd. 2014, DOI: <a href="http://doi.acm.org/10.1145/3162076" target="_blank"><u>10.1145/3162076</u></a></div>
+
+-->
 
 Workshop Publications
 ------
