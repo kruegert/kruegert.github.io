@@ -12,6 +12,8 @@ author_profile: true
 
 ------
 
+<b>Members</b>
+
 <div class="pub_container">
      <div class="column-image"><img class="pub_image" src="https://vida.engineering.nyu.edu/wp-content/uploads/2025/09/Chahat-Kalsi-400x385.png" alt="Chahat Kalsi"></div>
      <div class="column-text">
@@ -21,9 +23,38 @@ author_profile: true
           </div></div>
 
 <div class="pub_container">
-     <div class="column-image"><img class="pub_image" src="https://vida.engineering.nyu.edu/wp-content/uploads/2024/09/Yuancheng-Shen-400x400.jpg" alt="Chahat Kalsi"></div>
+     <div class="column-image"><img class="pub_image" src="https://vida.engineering.nyu.edu/wp-content/uploads/2024/09/Yuancheng-Shen-400x400.jpg" alt="Yuancheng Shen"></div>
      <div class="column-text">
           <div><b>Yuancheng Shen</b></div>
           <div>PhD Student</div>
           <div><a href="https://remoshen.github.io/" target="_blank"><u>Personal Website</u></a></div>
           </div></div>
+
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="https://vida.engineering.nyu.edu/wp-content/uploads/2025/03/Arya-Adesh-400x395.png" alt="Arya Adesh"></div>
+     <div class="column-text">
+          <div><b>Arya Adesh</b></div>
+          <div>Master Student</div>
+          <div><a href="https://github.com/aryaadesh" target="_blank"><u>Personal Website</u></a></div>
+          </div></div>
+
+<b>Alumni</b>
+
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=cOLdxSsAAAAJ&citpid=4" alt="Anushka Tawte"></div>
+     <div class="column-text">
+          <div><b>Anushka Tawte</b></div>
+          <div>Former: Master Student</div>
+          <div>Now: SDE at Eterna</div>
+          <div><a href="https://github.com/surelyanushka" target="_blank"><u>Personal Website</u></a></div>
+          </div></div>
+
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="https://vida.engineering.nyu.edu/wp-content/uploads/2025/02/Photo-Pranav-Motarwar-400x339.png" alt="Pranav Motarwar"></div>
+     <div class="column-text">
+          <div><b>Pranav Motarwar</b></div>
+          <div>Former: Master Student</div>
+          <div>Now: SDE at TikTok</div>
+          <div><a href="https://github.com/PranavMotarwar" target="_blank"><u>Personal Website</u></a></div>
+          </div></div>
+          
