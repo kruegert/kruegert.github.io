@@ -19,6 +19,7 @@ author_profile: true
      <div class="column-text">
           <div><b>Chahat Kalsi</b></div>
           <div>PhD Student</div>
+          <div>Focus: Visualization and analytics for 3D microscopy volumes, situated analytics (AR/VR)</div>
           <div><a href="https://chahat08.github.io/" target="_blank"><u>Personal Website</u></a></div>
           </div></div>
 
@@ -27,6 +28,7 @@ author_profile: true
      <div class="column-text">
           <div><b>Yuancheng Shen</b></div>
           <div>PhD Student</div>
+          <div>Focus: Scalable (bio/med-)visualization, high-dimensional data analysis, steerable AI</div>
           <div><a href="https://remoshen.github.io/" target="_blank"><u>Personal Website</u></a></div>
           </div></div>
 
@@ -35,6 +37,7 @@ author_profile: true
      <div class="column-text">
           <div><b>Arya Adesh</b></div>
           <div>Master Student</div>
+          <div>Focus: Steerable/explainable AI, analysis of live cell imaging data</div>
           <div><a href="https://github.com/aryaadesh" target="_blank"><u>Personal Website</u></a></div>
           </div></div>
 
@@ -45,6 +48,7 @@ author_profile: true
      <div class="column-text">
           <div><b>Anushka Tawte</b></div>
           <div>Former: Master Student</div>
+          <div>Focus: Clustering, HPC</div>
           <div>Now: SDE at Eterna</div>
           <div><a href="https://github.com/surelyanushka" target="_blank"><u>Personal Website</u></a></div>
           </div></div>
@@ -53,6 +57,7 @@ author_profile: true
      <div class="column-image"><img class="pub_image" src="https://vida.engineering.nyu.edu/wp-content/uploads/2025/02/Photo-Pranav-Motarwar-400x339.png" alt="Pranav Motarwar"></div>
      <div class="column-text">
           <div><b>Pranav Motarwar</b></div>
+          <div>Focus: AI (LMM) promting and visualization</div>
           <div>Former: Master Student</div>
           <div>Now: SDE at TikTok</div>
           <div><a href="https://github.com/PranavMotarwar" target="_blank"><u>Personal Website</u></a></div>
