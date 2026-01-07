@@ -57,8 +57,8 @@ author_profile: true
      <div class="column-image"><img class="pub_image" src="https://vida.engineering.nyu.edu/wp-content/uploads/2025/02/Photo-Pranav-Motarwar-400x339.png" alt="Pranav Motarwar"></div>
      <div class="column-text">
           <div><b>Pranav Motarwar</b></div>
-          <div>Focus: AI (LMM) promting and visualization</div>
           <div>Former: Master Student</div>
+          <div>Focus: AI (LMM) promting and visualization</div>
           <div>Now: SDE at TikTok</div>
           <div><a href="https://github.com/PranavMotarwar" target="_blank"><u>Personal Website</u></a></div>
           </div></div>
