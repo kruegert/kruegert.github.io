@@ -33,7 +33,7 @@ author_profile: true
           </div></div>
 
 <div class="pub_container">
-     <div class="column-image"><img class="pub_image" src="https://vida.engineering.nyu.edu/wp-content/uploads/2025/03/Arya-Adesh-400x395.png" alt="Arya Adesh"></div>
+     <div class="column-image"><img class="pub_image" src="https://github.com/kruegert/kruegert.github.io/blob/master/images/arya.jpg?raw=true" alt="Arya Adesh"></div>
      <div class="column-text">
           <div><b>Arya Adesh</b></div>
           <div>Master Student</div>
