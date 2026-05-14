@@ -69,7 +69,7 @@ author_profile: true
           </div></div>
 
 <div class="pub_container">
-     <div class="column-image"><img class="pub_image" src="https://github.com/kruegert/kruegert.github.io/blob/master/images/kaushik.png" alt="Kaushik Alaguvadivel Ramya"></div>
+     <div class="column-image"><img class="pub_image" src="https://github.com/kruegert/kruegert.github.io/blob/master/images/kaushik.png?raw=true" alt="Kaushik Alaguvadivel Ramya"></div>
      <div class="column-text">
           <div><b>Kaushik Alaguvadivel Ramya</b></div>
           <div>Master Student</div>
