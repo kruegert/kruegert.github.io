@@ -15,7 +15,7 @@ author_profile: true
 <b>Members</b>
 
 <div class="pub_container">
-     <div class="column-image"><img class="pub_image" src="https://vida.engineering.nyu.edu/wp-content/uploads/2025/09/Chahat-Kalsi-400x385.png" alt="Chahat Kalsi"></div>
+     <div class="column-image"><img class="pub_image" src="https://chahat08.github.io/assets/portrait.jpg" alt="Chahat Kalsi"></div>
      <div class="column-text">
           <div><b>Chahat Kalsi</b></div>
           <div>PhD Student</div>
@@ -24,7 +24,7 @@ author_profile: true
           </div></div>
 
 <div class="pub_container">
-     <div class="column-image"><img class="pub_image" src="https://vida.engineering.nyu.edu/wp-content/uploads/2024/09/Yuancheng-Shen-400x400.jpg" alt="Yuancheng Shen"></div>
+     <div class="column-image"><img class="pub_image" src="https://vida.engineering.nyu.edu/people/remo-yuancheng-shen" alt="Yuancheng Shen"></div>
      <div class="column-text">
           <div><b>Yuancheng Shen</b></div>
           <div>PhD Student</div>
@@ -39,6 +39,51 @@ author_profile: true
           <div>Master Student</div>
           <div>Focus: Steerable/explainable AI, analysis of live cell imaging data</div>
           <div><a href="https://github.com/aryaadesh" target="_blank"><u>Personal Website</u></a></div>
+          </div></div>
+
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="" alt="Byeong Heon Ahn"></div>
+     <div class="column-text">
+          <div><b>Byeong Heon Ahn</b></div>
+          <div>Master Student</div>
+          <div>Focus: Omero Visualization Integration</div>
+          <div><a href="https://github.com/" target="_blank"><u>Personal Website</u></a></div>
+          </div></div>
+
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="" alt="Kyle Dsouza"></div>
+     <div class="column-text">
+          <div><b>Kyle Dsouza</b></div>
+          <div>Master Student</div>
+          <div>Focus: Visualization of Spatial Transcriptomics Data</div>
+          <div><a href="https://github.com/" target="_blank"><u>Personal Website</u></a></div>
+          </div></div>
+
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="" alt="Divij Kapur"></div>
+     <div class="column-text">
+          <div><b>Divij Kapur</b></div>
+          <div>Master Student</div>
+          <div>Focus: Nextflow Processing Pipelines</div>
+          <div><a href="https://github.com/" target="_blank"><u>Personal Website</u></a></div>
+          </div></div>
+
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="https://github.com/kruegert/kruegert.github.io/blob/master/images/kaushik.png" alt="Kaushik Alaguvadivel Ramya"></div>
+     <div class="column-text">
+          <div><b>Kaushik Alaguvadivel Ramya</b></div>
+          <div>Master Student</div>
+          <div>Focus: Representation Learning from Multi-Volume Cellular Data</div>
+          <div><a href="https://github.com/" target="_blank"><u>Personal Website</u></a></div>
+          </div></div>
+
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="" alt="Ruchita Sonawale"></div>
+     <div class="column-text">
+          <div><b>Ruchita Sonawale</b></div>
+          <div>Master Student</div>
+          <div>Focus: Visual interface design for live cell imaging data</div>
+          <div><a href="https://github.com/" target="_blank"><u>Personal Website</u></a></div>
           </div></div>
 
 <b>Alumni</b>
