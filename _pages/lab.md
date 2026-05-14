@@ -99,7 +99,7 @@ author_profile: true
           </div></div>
 
 <div class="pub_container">
-     <div class="column-image"><img class="pub_image" src="https://vida.engineering.nyu.edu/wp-content/uploads/2025/02/Photo-Pranav-Motarwar-400x339.png" alt="Pranav Motarwar"></div>
+     <div class="column-image"><img class="pub_image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNakeFcl3P2Kf0i4BSV-FrmcKsGgVWyyIwnQ&s" alt="Pranav Motarwar"></div>
      <div class="column-text">
           <div><b>Pranav Motarwar</b></div>
           <div>Former: Master Student</div>
