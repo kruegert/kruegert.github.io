@@ -5,191 +5,181 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-<p style="font-size:14px;max-width:600px;text-align:justify">My research concerns the design and develop scalable visualization methods and integrate machine learning into visual interactive interfaces. 
-  My group's work enables human-in-the-loop data analysis of increasingly large and complex molecular data (imaging and spatial omics) acquired for biomedical research. 
-  We work closely with biomedical users to survey their goals and requirements, iteratively develop visualization prototypes, and conduct hands-on studies for qualitative and quantitative evaluation.</p>
+<div class="archive" style="max-width: 100%;">
 
-<p style="font-size:14px;max-width:600px;text-align:justify">Visual analytics is an emerging research field to tackle big data analysis challenges. 
-It creates added value by combining the processing power and accuracy of machines with human capabilities to perceive information visually. 
-Automatic means are used to fuse and aggregate data and to detect hidden patterns. 
-Interactive visualizations allow to explore and query the data and to steer automatic processes with domain knowledge. 
-This increases trust in data, models, and results, which is especially important when critical decisions need to be made. 
-The strengths of visual analytics have been shown to be particularly advantageous when problems and goals are underspecified and exploratory means are needed to discover yet unknown patterns.</p>
+  <p style="font-size:14px; text-align:justify; margin-bottom: 1.5em;">
+    My research concerns the design and develop scalable visualization methods and integrate machine learning into visual interactive interfaces. 
+    My group's work enables human-in-the-loop data analysis of increasingly large and complex molecular data (imaging and spatial omics) acquired for biomedical research. 
+    We work closely with biomedical users to survey their goals and requirements, iteratively develop visualization prototypes, and conduct hands-on studies for qualitative and quantitative evaluation.
+  </p>
 
-<p style="font-size:14px;max-width:600px;text-align:justify">
-  Further research projects include the analysis of large-scale geographical (spatio-temporal) data, visual interfaces for steerable and interpretable ML, and immersive analytics approaches. 
-  You can find more information and links to my research papers in the <a href="https://kruegert.github.io/publications/" style="color:#3399ff;">publication</a> section.</p>
+  <p style="font-size:14px; text-align:justify; margin-bottom: 1.5em;">
+    Visual analytics is an emerging research field to tackle big data analysis challenges. 
+    It creates added value by combining the processing power and accuracy of machines with human capabilities to perceive information visually. 
+    Automatic means are used to fuse and aggregate data and to detect hidden patterns. 
+    Interactive visualizations allow to explore and query the data and to steer automatic processes with domain knowledge. 
+    This increases trust in data, models, and results, which is especially important when critical decisions need to be made. 
+    The strengths of visual analytics have been shown to be particularly advantageous when problems and goals are underspecified and exploratory means are needed to discover yet unknown patterns.
+  </p>
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+  <p style="font-size:14px; text-align:justify; margin-bottom: 2.5rem;">
+    Further research projects include the analysis of large-scale geographical (spatio-temporal) data, visual interfaces for steerable and interpretable ML, and immersive analytics approaches. 
+    You can find more information and links to my research papers in the <a href="https://kruegert.github.io/publications/" style="color:#3399ff;">publication</a> section.
+  </p>
 
-<style>
-  .custom-projects-section {
-    margin: 2rem auto;
-    max-width: 1200px;
-    padding: 0 10px;
-    font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-  }
+  <h2 class="archive__subtitle" style="margin-top: 2rem; margin-bottom: 1.5rem;">Recent Research & Biomedical Visualization Projects</h2>
 
-  .custom-projects-section h2 {
-    font-size: 1.563rem; /* Matches native AcademicPages h2 size */
-    color: #2b2b2b;
-    border-bottom: 1px solid #f2f3f3;
-    padding-bottom: 0.5em;
-    margin-bottom: 1.5rem;
-  }
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
 
-  .projects-list {
-    display: flex;
-    flex-direction: column;
-    gap: 2.5rem;
-  }
-
-  .project-item {
-    display: flex;
-    gap: 1.8rem;
-    align-items: flex-start;
-    padding-bottom: 2rem;
-    border-bottom: 1px solid #f2f3f3;
-  }
-
-  .project-item:last-child {
-    border-bottom: none;
-    padding-bottom: 0;
-  }
-
-  .project-thumb-wrapper {
-    flex: 0 0 240px; /* Layout sidebar width for images */
-    max-width: 240px;
-    border-radius: 4px;
-    overflow: hidden;
-    background: #f2f3f3;
-    border: 1px solid #e1e4e8;
-  }
-
-  .project-thumb {
-    width: 100%;
-    height: 150px;
-    object-fit: cover;
-    display: block;
-  }
-
-  .project-details {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    gap: 0.6rem;
-  }
-
-  .project-heading {
-    font-size: 1.25rem;
-    margin: 0;
-    font-weight: bold;
-    line-height: 1.3;
-  }
-
-  .project-heading a {
-    color: #494e52;
-    text-decoration: none;
-    border-bottom: 1px solid transparent;
-    transition: border-color 0.2s;
-  }
-
-  .project-heading a:hover {
-    color: #2b2b2b;
-    border-bottom-color: #494e52;
-  }
-
-  .project-summary {
-    font-size: 0.95rem;
-    line-height: 1.6;
-    color: #3d4144;
-    margin: 0;
-  }
-
-  .project-meta-row {
-    display: flex;
-    justify-content: flex-start; /* Anchors button tight to keywords, preventing floating artifacts */
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 1.5rem;
-    margin-top: 0.4rem;
-  }
-
-  .projects-keywords {
-    display: flex;
-    gap: 0.5rem;
-    flex-wrap: wrap;
-  }
-
-  .keyword-tag {
-    background-color: #f2f3f3;
-    color: #494e52;
-    padding: 2px 8px;
-    border-radius: 4px;
-    font-size: 0.75rem;
-    font-weight: 500;
-  }
-
-  .repo-action-link {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    font-size: 0.85rem;
-    font-weight: bold;
-    color: #494e52 !important;
-    text-decoration: none !important;
-    padding: 4px 10px;
-    border: 1px solid #d9d9d9;
-    border-radius: 4px;
-    background: #ffffff;
-    transition: background 0.2s, border-color 0.2s;
-  }
-
-  .repo-action-link i {
-    font-size: 0.95rem;
-  }
-
-  .repo-action-link:hover {
-    background: #f2f3f3;
-    border-color: #b5b5b5;
-  }
-
-  /* Mobile Responsive layouts */
-  @media (max-width: 600px) {
-    .project-item {
+  <style>
+    .projects-list {
+      display: flex;
       flex-direction: column;
-      gap: 1rem;
-      padding-bottom: 1.5rem;
-    }
-    
-    .project-thumb-wrapper {
-      flex: 1 1 auto;
-      max-width: 100%;
+      gap: 2rem;
       width: 100%;
+    }
+
+    .project-item {
+      display: flex;
+      gap: 1.8rem;
+      align-items: flex-start;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid #f2f3f3;
+    }
+
+    .project-item:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+
+    .project-thumb-wrapper {
+      flex: 0 0 220px;
+      max-width: 220px;
+      border-radius: 4px;
+      overflow: hidden;
+      background: #f2f3f3;
+      border: 1px solid #e1e4e8;
     }
 
     .project-thumb {
-      height: 180px;
+      width: 100%;
+      height: 140px;
+      object-fit: cover;
+      display: block;
+    }
+
+    .project-details {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    /* Standardizes font sizes cleanly into native AcademicPages sizes */
+    .project-heading {
+      font-size: 1.15rem;
+      margin: 0 0 0.2rem 0;
+      font-weight: bold;
+      line-height: 1.3;
+    }
+
+    .project-heading a {
+      color: #2b2b2b;
+      text-decoration: none;
+    }
+
+    .project-heading a:hover {
+      color: #3399ff;
+    }
+
+    .project-summary {
+      font-size: 14px;
+      line-height: 1.5;
+      color: #494e52;
+      text-align: justify;
+      margin: 0;
     }
 
     .project-meta-row {
-      flex-direction: column;
-      align-items: flex-start;
-      gap: 0.8rem;
-      width: 100%;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.2rem;
+      margin-top: 0.3rem;
     }
-    
-    .repo-action-link {
-      width: 100%;
-      justify-content: center;
-      box-sizing: border-box;
-    }
-  }
-</style>
 
-<div class="custom-projects-section">
-  <h2>Recent Research & Biomedical Visualization Projects</h2>
-  
+    .projects-keywords {
+      display: flex;
+      gap: 0.4rem;
+      flex-wrap: wrap;
+    }
+
+    .keyword-tag {
+      background-color: #f2f3f3;
+      color: #494e52;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-weight: 500;
+    }
+
+    .repo-action-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.8rem;
+      font-weight: bold;
+      color: #494e52 !important;
+      text-decoration: none !important;
+      padding: 4px 10px;
+      border: 1px solid #d9d9d9;
+      border-radius: 4px;
+      background: #ffffff;
+      transition: background 0.2s, border-color 0.2s;
+    }
+
+    .repo-action-link i {
+      font-size: 0.9rem;
+    }
+
+    .repo-action-link:hover {
+      background: #f2f3f3;
+      border-color: #b5b5b5;
+    }
+
+    @media (max-width: 600px) {
+      .project-item {
+        flex-direction: column;
+        gap: 1rem;
+        padding-bottom: 1.5rem;
+      }
+      
+      .project-thumb-wrapper {
+        flex: 1 1 auto;
+        max-width: 100%;
+        width: 100%;
+      }
+
+      .project-thumb {
+        height: 160px;
+      }
+
+      .project-meta-row {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.8rem;
+        width: 100%;
+      }
+      
+      .repo-action-link {
+        width: 100%;
+        justify-content: center;
+        box-sizing: border-box;
+      }
+    }
+  </style>
+
   <div class="projects-list">
 
     <div class="project-item">
@@ -204,81 +194,3 @@ The strengths of visual analytics have been shown to be particularly advantageou
         <div class="project-meta-row">
           <div class="projects-keywords">
             <span class="keyword-tag">Image Viewers</span>
-            <span class="keyword-tag">Single Cell</span>
-            <span class="keyword-tag">Multi-Omics</span>
-          </div>
-          <a href="https://github.com/labsyspharm/Visinity" class="repo-action-link" target="_blank" rel="noopener">
-            <i class="fab fa-github"></i> Code Repository
-          </a>
-        </div>
-      </div>
-    </div>
-    
-    <div class="project-item">
-      <div class="project-thumb-wrapper">
-        <img class="project-thumb" src="https://raw.githubusercontent.com/kruegert/kruegert.github.io/master/images/cell2cell.png" alt="Analytical Volumetric Processing of 3D Microenvironments">
-      </div>
-      <div class="project-details">
-        <h3 class="project-heading"><a href="https://github.com/VCG/Cell2Cell" target="_blank">Rendering and Spatial Analysis of Multi-Volume Data</a></h3>
-        <p class="project-summary">
-          Higher-resolution 3D imaging can reveal deeper insights into cellular tissue microenvironments. We develop scalable multi-volume rendering methods and accompanied spatial analysis tools, ranging from detecting marker co-localization to ml-based feature extraction and analysis.
-        </p>
-        <div class="project-meta-row">
-          <div class="projects-keywords">
-            <span class="keyword-tag">Multi-Volume Rendering</span>
-            <span class="keyword-tag">3D Imaging</span>
-            <span class="keyword-tag">Co-Localization</span>
-          </div>
-          <a href="https://github.com/VCG/Cell2Cell" class="repo-action-link" target="_blank" rel="noopener">
-            <i class="fab fa-github"></i> Code Repository
-          </a>
-        </div>
-      </div>
-    </div>
-
-    <div class="project-item">
-      <div class="project-thumb-wrapper">
-        <img class="project-thumb" src="https://raw.githubusercontent.com/kruegert/kruegert.github.io/master/images/embryoprofiler.png" alt="Analytics of Live Cell Imaging">
-      </div>
-      <div class="project-details">
-        <h3 class="project-heading"><a href="https://github.com/kruegert/EmbryoProfiler" target="_blank">Analytics of Live-Cell Imaging Data</a></h3>
-        <p class="project-summary">
-          We design visual interfaces to display multiplex live-cell imaging data. Current projects range from in-vitro fertilization to CAR-T cell experiments for cancer treatment. We currently tackle the streaming and interactive display of such data in the web and the integration of analytics and human-in-the-loop AI to trace, examine and grade cellular/tissue development. We therefore integrate XAI methods to help experts in their decision making and interpretation.
-        </p>
-        <div class="project-meta-row">
-          <div class="projects-keywords">
-            <span class="keyword-tag">EmbryoProfiler</span>
-            <span class="keyword-tag">Time-Lapse Analytics</span>
-            <span class="keyword-tag">Clinical Explanations</span>
-          </div>
-          <a href="https://github.com/kruegert/EmbryoProfiler" class="repo-action-link" target="_blank" rel="noopener">
-            <i class="fab fa-github"></i> Code Repository
-          </a>
-        </div>
-      </div>
-    </div>
-
-    <div class="project-item">
-      <div class="project-thumb-wrapper">
-        <img class="project-thumb" src="https://raw.githubusercontent.com/kruegert/kruegert.github.io/master/images/trajectoryLenses.png" alt="Geographic and Mobility Visualization">
-      </div>
-      <div class="project-details">
-        <h3 class="project-heading"><a href="#" target="_blank">Geographic and Mobility Data Visualization</a></h3>
-        <p class="project-summary">
-          Beyond the biomedical domain, spatial datasets occur in geographic application domains. We work on geographic information science and systems. A specific expertise of the lab is the visual analysis of movement and mobility data, ranging from map matching to semantic enrichment, querying, filtering and interpretation.
-        </p>
-        <div class="project-meta-row">
-          <div class="projects-keywords">
-            <span class="keyword-tag">Geospatial Analytics</span>
-            <span class="keyword-tag">Trajectory Analysis</span>
-            <span class="keyword-tag">Spatio-Temporal Data</span>
-          </div>
-          <a href="#" class="repo-action-link" target="_blank" rel="noopener">
-            <i class="fab fa-github"></i> Code Repository
-          </a>
-        </div>
-      </div>
-    </div>
-
-  </div>
-</div>
