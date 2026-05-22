@@ -6,6 +6,9 @@ main:
     
   - title: "Research"
     url: /portfolio/
+
+  - title: "Lab"
+    url: /lab/
     
   - title: "Publications"
     url: /publications/
@@ -13,9 +16,6 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Lab"
-    url: /lab/
-
-  - title: "Teaching and Supervision"
+  - title: "Teaching and Advising"
     url: /teaching/  
         
