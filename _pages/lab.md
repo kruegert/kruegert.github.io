@@ -51,7 +51,7 @@ author_profile: true
           </div></div>
 
 <div class="pub_container">
-     <div class="column-image"><img class="pub_image" src="" alt="Kyle Dsouza"></div>
+     <div class="column-image"><img class="pub_image" src=""https://github.com/kruegert/kruegert.github.io/blob/master/images/kyle_profile.png?raw=true" alt="Kyle Dsouza"></div>
      <div class="column-text">
           <div><b>Kyle Dsouza</b></div>
           <div>Master Student</div>
