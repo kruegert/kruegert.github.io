@@ -74,7 +74,7 @@ author_profile: true
           <div><b>Kaushik Alaguvadivel Ramya</b></div>
           <div>Master Student</div>
           <div>Focus: Representation Learning from Multi-Volume Cellular Data</div>
-          <div><a href="https://github.com/" target="_blank"><u>Personal Website</u></a></div>
+          <div><a href="https://kaushik-ar.github.io" target="_blank"><u>Personal Website</u></a></div>
           </div></div>
 
 <div class="pub_container">
