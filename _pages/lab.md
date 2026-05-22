@@ -56,7 +56,7 @@ author_profile: true
           <div><b>Kyle Dsouza</b></div>
           <div>Master Student</div>
           <div>Focus: Visualization of Spatial Transcriptomics Data</div>
-          <div><a href="https://github.com/" target="_blank"><u>Personal Website</u></a></div>
+          <div><a href="kyledsouza.vercel.app" target="_blank"><u>Personal Website</u></a></div>
           </div></div>
 
 <div class="pub_container">
