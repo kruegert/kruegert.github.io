@@ -78,12 +78,12 @@ author_profile: true
           </div></div>
 
 <div class="pub_container">
-     <div class="column-image"><img class="pub_image" src="https://github.com/kruegert/kruegert.github.io/blob/master/images/no_profile.png?raw=true" alt="Ruchita Sonawale"></div>
+     <div class="column-image"><img class="pub_image" src="https://github.com/kruegert/kruegert.github.io/blob/master/images/ruchita.jpg?raw=true" alt="Ruchita Sonawale"></div>
      <div class="column-text">
           <div><b>Ruchita Sonawale</b></div>
           <div>Master Student</div>
           <div>Focus: Visual interface design for live cell imaging data</div>
-          <div><a href="https://github.com/" target="_blank"><u>Personal Website</u></a></div>
+          <div><a href="ruchi-11-room.vercel.app" target="_blank"><u>Personal Website</u></a></div>
           </div></div>
 
 <b>Alumni</b>
