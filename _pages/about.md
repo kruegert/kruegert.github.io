@@ -15,7 +15,7 @@ Latest News
 ======
 
 <span style="color:grey">May 2026</span><br/>
-<span style="font-size: 14px">I received the NSF CAREER Award for my proposal "CAREER : Human-in-the-Loop Visual Analytics for Biomedical Spatial Profiling". The funding will help us to research, develop, and evaluate novel data analytics, visualization, and human-in-the-loop AI approaches to better understand disease and immune meachanisms with the potential to derive new biological knowledge and improve therapies, particularly for cancer.</span>
+<span style="font-size: 14px">I received the [NSF CAREER Award](https://www.nsf.gov/funding/opportunities/career-faculty-early-career-development-program) for my proposal "CAREER : Human-in-the-Loop Visual Analytics for Biomedical Spatial Profiling". The funding will help us to research, develop, and evaluate novel data analytics, visualization, and human-in-the-loop AI approaches to better understand disease and immune meachanisms with the potential to derive new biological knowledge and improve therapies, particularly for cancer.</span>
 
 <span style="color:grey">Nov 2025</span><br/>
 <span style="font-size: 14px">Our team won the Award of Excellence at the [Bio+Med+Vis Challenge at IEEE VIS](http://biovis.net/2025/program_ieee/), 2025 for our work: [BioSET - Biomarker-based Spatial co-Expression analysis in Tumor environments.](http://biovis.net/2025/data/BioMedVisChallenge2025submissions/9592/final.pdf). Supplemental Material: [Figures, Video](http://biovis.net/2025/data/BioMedVisChallenge2025submissions/9592/supp.zip)</span>
