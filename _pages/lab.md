@@ -60,7 +60,7 @@ author_profile: true
           </div></div>
 
 <div class="pub_container">
-     <div class="column-image"><img class="pub_image" src="https://github.com/kruegert/kruegert.github.io/blob/master/images/no_profile.png?raw=true" alt="Divij Kapur"></div>
+     <div class="column-image"><img class="pub_image" src="https://github.com/kruegert/kruegert.github.io/blob/master/images/divij.jpg?raw=true" alt="Divij Kapur"></div>
      <div class="column-text">
           <div><b>Divij Kapur</b></div>
           <div>Master Student</div>
