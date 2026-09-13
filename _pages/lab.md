@@ -75,8 +75,9 @@ author_profile: true
      <div class="column-image"><img class="pub_image" src="https://github.com/kruegert/kruegert.github.io/blob/master/images/arya.jpg?raw=true" alt="Arya Adesh"></div>
      <div class="column-text">
           <div><b>Arya Adesh</b></div>
-          <div>Master Student</div>
+          <div>Former: Master Student</div>
           <div>Focus: Steerable/explainable AI, analysis of live cell imaging data</div>
+          <div>Now: Amazon - AWS</div>
           <div><a href="https://github.com/aryaadesh" target="_blank"><u>Personal Website</u></a></div>
           </div></div>
 
@@ -84,7 +85,7 @@ author_profile: true
      <div class="column-image"><img class="pub_image" src="https://github.com/kruegert/kruegert.github.io/blob/master/images/divij.jpg?raw=true" alt="Divij Kapur"></div>
      <div class="column-text">
           <div><b>Divij Kapur</b></div>
-          <div>Master Student</div>
+          <div>Former: Master Student</div>
           <div>Focus: Nextflow Processing Pipelines</div>
           <div><a href="https://github.com/" target="_blank"><u>Personal Website</u></a></div>
           </div></div>
@@ -93,7 +94,7 @@ author_profile: true
      <div class="column-image"><img class="pub_image" src="https://github.com/kruegert/kruegert.github.io/blob/master/images/kyle_profile.png?raw=true" alt="Kyle Dsouza"></div>
      <div class="column-text">
           <div><b>Kyle Dsouza</b></div>
-          <div>Master Student</div>
+          <div>Former: Master Student</div>
           <div>Focus: Visualization of Spatial Transcriptomics Data</div>
           <div><a href="kyledsouza.vercel.app" target="_blank"><u>Personal Website</u></a></div>
           </div></div>
@@ -112,7 +113,7 @@ author_profile: true
      <div class="column-image"><img class="pub_image" src="https://github.com/kruegert/kruegert.github.io/blob/master/images/ruchita.jpeg?raw=true" alt="Ruchita Sonawale"></div>
      <div class="column-text">
           <div><b>Ruchita Sonawale</b></div>
-          <div>Master Student</div>
+          <div>Former: Master Student</div>
           <div>Focus: Visual interface design for live cell imaging data</div>
           <div><a href="ruchi-11-room.vercel.app" target="_blank"><u>Personal Website</u></a></div>
           </div></div>
