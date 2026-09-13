@@ -59,15 +59,6 @@ author_profile: true
           <div><a href="https://kaushik-ar.github.io" target="_blank"><u>Personal Website</u></a></div>
           </div></div>
 
-<div class="pub_container">
-     <div class="column-image"><img class="pub_image" src="https://github.com/kruegert/kruegert.github.io/blob/master/images/ruchita.jpeg?raw=true" alt="Ruchita Sonawale"></div>
-     <div class="column-text">
-          <div><b>Ruchita Sonawale</b></div>
-          <div>Master Student</div>
-          <div>Focus: Visual interface design for live cell imaging data</div>
-          <div><a href="ruchi-11-room.vercel.app" target="_blank"><u>Personal Website</u></a></div>
-          </div></div>
-
 <b>Alumni</b>
 
 <div class="pub_container">
@@ -115,5 +106,14 @@ author_profile: true
           <div>Focus: AI (LMM) promting and visualization</div>
           <div>Now: SDE at TikTok</div>
           <div><a href="https://github.com/PranavMotarwar" target="_blank"><u>Personal Website</u></a></div>
+          </div></div>
+
+<div class="pub_container">
+     <div class="column-image"><img class="pub_image" src="https://github.com/kruegert/kruegert.github.io/blob/master/images/ruchita.jpeg?raw=true" alt="Ruchita Sonawale"></div>
+     <div class="column-text">
+          <div><b>Ruchita Sonawale</b></div>
+          <div>Master Student</div>
+          <div>Focus: Visual interface design for live cell imaging data</div>
+          <div><a href="ruchi-11-room.vercel.app" target="_blank"><u>Personal Website</u></a></div>
           </div></div>
           
