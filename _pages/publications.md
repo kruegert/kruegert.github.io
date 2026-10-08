@@ -13,7 +13,8 @@ Journal Publications
 Wen, Yunge; Wang, Yaluo; Shen, Yuancheng; Krueger, Robert; Liang, Paul Pu. (2026). "PaintCopilot: Modeling Painting as Autonomous Artistic Continuation." arXiv preprint arXiv:2605.20941. (To be published as part of the NeurIPS Create AI track).
 
 <div class="pub_container">
-     <div class="column-image"><img class="pub_image" src="../images/embryoProfiler.png" alt="EmbryProfiler"></div>
+     <div class="column-image"><img class="pub_image" src="<img width="1350" height="758" alt="image" src="https://github.com/user-attachments/assets/c79cfd65-8277-4238-90ca-b2e86e973ee5" />
+" alt="PaintCopilot"></div>
      <div class="column-text">
           <div><b>PaintCopilot: Modeling Painting as Autonomous Artistic Continuation. (preprint. To be published as part of the NeurIPS Create AI track)</b></div>
           <div>Wen, Yunge; Wang, Yaluo; Shen, Yuancheng; Krueger, Robert; Liang, Paul Pu.</div>
