@@ -13,7 +13,7 @@ Journal Publications
 <div class="pub_container">
      <div class="column-image"><img class="pub_image" src="../images/PaintCoPilot.png" alt="PaintCoPilot"></div>
      <div class="column-text">
-          <div><b>PaintCopilot: Modeling Painting as Autonomous Artistic Continuation.</b>(preprint. To be published as part of the NeurIPS Create AI track)</div>
+          <div><b>PaintCopilot: Modeling Painting as Autonomous Artistic Continuation.</b> (preprint - to be published at NeurIPS's Create AI track)</div>
           <div>Wen, Yunge; Wang, Yaluo; Shen, Yuancheng; <b>Krueger, Robert</b>; Liang, Paul Pu.</div>
           <div><a href="https://doi.org/10.48550/arXiv.2605.20941" target="_blank"><u>DOI: arXiv:2605.20941</u></a></div>
           </div></div>
