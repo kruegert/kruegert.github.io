@@ -14,6 +14,9 @@ redirect_from:
 Latest News
 ======
 
+<span style="color:grey">September 2027</span><br/>
+<span style="font-size: 14px">Our paper "Yunge Wen, Yaluo Wang, Yuancheng Shen, Robert Krueger, Paul Pu Liang: PaintCopilot: Modeling Painting as Autonomous Artistic Continuation" was accepted at NeurIPS Creative AI Track. This is a collaboration with the MIT Media Lab. A preprint can be found here: [DOI: 10.48550/arXiv.2605.20941](https://doi.org/10.48550/arXiv.2605.20941) </span>
+
 <span style="color:grey">May 2026</span><br/>
 <span style="font-size: 14px">I received the [NSF CAREER Award](https://www.nsf.gov/funding/opportunities/career-faculty-early-career-development-program) for my proposal "CAREER : Human-in-the-Loop Visual Analytics for Biomedical Spatial Profiling". The funding will help us to research, develop, and evaluate novel data analytics, visualization, and human-in-the-loop AI approaches to better understand disease and immune meachanisms with the potential to derive new biological knowledge and improve therapies, particularly for cancer.</span>
 
