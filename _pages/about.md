@@ -15,7 +15,7 @@ Latest News
 ======
 
 <span style="color:grey">Nov 2026</span><br/>
-<span style="font-size: 14px">We plan to accept 1 PhD student, with a start in Fall 2027. Topics focus on visual analytics, scientific visualization, imaging data analysis, and explainable/interpretable AI. If you are interested please reach out to me via E-mail. You would also officially apply to the: [NYU PhD Program](https://cs.nyu.edu/dynamic/phd/admissions). Deadline is Dec 12, 2026./</span>
+<span style="font-size: 14px">We plan to accept 1 PhD student, with a start in Fall 2027. Topics focus on visual analytics, scientific visualization, imaging data analysis, and explainable/interpretable AI. If you are interested please reach out to me via E-mail. You would also officially apply to the: [NYU Computer Science PhD Program](https://cs.nyu.edu/dynamic/phd/admissions). Deadline is Dec 12, 2026./</span>
 
 <span style="color:grey">Oct 2026</span><br/>
 <span style="font-size: 14px">We presented our work on multivolume rendering and explainable representation learning for cancer tissue analysis at this year's [ESSB (European Society for Spatial Biology) conference](https://essb2026.org/) in Sitges, Spain. We received the best poster award for our work on "Scalable 3D Visualization and Spatial Exploration of Multiplexed Cancer Tissue Images for the Web". </span>
